@@ -1,0 +1,170 @@
+[
+ [
+  "part0-preface",
+  "00-preface",
+  "《Grok Bot 黑皮书：从零到一支 AI 团队》",
+  "封面与前言"
+ ],
+ [
+  "part1-getting-started",
+  "01-what-it-is",
+  "§01 Grok Bot 是什么 · What It Is",
+  "Part 1 起步 · Getting Started"
+ ],
+ [
+  "part1-getting-started",
+  "02-access",
+  "§02 怎么才能用上 · Getting Access",
+  "Part 1 起步 · Getting Started"
+ ],
+ [
+  "part1-getting-started",
+  "03-install",
+  "§03 十分钟安装与开箱 · Install in 10 Minutes",
+  "Part 1 起步 · Getting Started"
+ ],
+ [
+  "part1-getting-started",
+  "04-first-task",
+  "§04 你的第一个任务 · Your First Task",
+  "Part 1 起步 · Getting Started"
+ ],
+ [
+  "part2-core-concepts",
+  "05-bots",
+  "§05 Bot：给每个同事一份岗位说明书 · Bots & Profiles",
+  "Part 2 核心概念 · Core Concepts"
+ ],
+ [
+  "part2-core-concepts",
+  "06-computer",
+  "§06 云电脑：它的工位 · The Computer",
+  "Part 2 核心概念 · Core Concepts"
+ ],
+ [
+  "part2-core-concepts",
+  "07-skills-routines",
+  "§07 Skill 与 Routine：教一次，让它照着做 · Skills & Routines",
+  "Part 2 核心概念 · Core Concepts"
+ ],
+ [
+  "part2-core-concepts",
+  "08-approvals-safety",
+  "§08 审批与安全边界 · Approvals & Safety",
+  "Part 2 核心概念 · Core Concepts"
+ ],
+ [
+  "part3-integrations",
+  "09-connectors",
+  "§09 连接器与 Marketplace · Connectors",
+  "Part 3 扩展与集成 · Integrations"
+ ],
+ [
+  "part3-integrations",
+  "10-partners",
+  "§10 官方合作集成逐个讲 · Partner Integrations",
+  "Part 3 扩展与集成 · Integrations"
+ ],
+ [
+  "part3-integrations",
+  "11-china-integrations",
+  "§11 中国用户的集成：没有插件也能用 · China Integrations",
+  "Part 3 扩展与集成 · Integrations"
+ ],
+ [
+  "part4-multi-bot",
+  "12-groups",
+  "§12 群聊与交接 · Groups & Handoffs",
+  "Part 4 多 Bot 协作 · Multi-Bot"
+ ],
+ [
+  "part4-multi-bot",
+  "13-blueprints",
+  "§13 编制案例库 · Team Blueprints",
+  "Part 4 多 Bot 协作 · Multi-Bot"
+ ],
+ [
+  "part5-use-cases",
+  "14-personal",
+  "§14 个人与生活 · Personal & Daily Life",
+  "Part 5 热门用例 · Use Cases"
+ ],
+ [
+  "part5-use-cases",
+  "15-creators",
+  "§15 内容创作 · Creators",
+  "Part 5 热门用例 · Use Cases"
+ ],
+ [
+  "part5-use-cases",
+  "16-business",
+  "§16 赚钱与工作 · Work & Business",
+  "Part 5 热门用例 · Use Cases"
+ ],
+ [
+  "part6-capstones",
+  "17-capstone-a",
+  "§17 从零搭一个“中文内容工作室” · Capstone A: Building a Chinese Content Studio",
+  "Part 6 完整落地项目 · Capstones"
+ ],
+ [
+  "part6-capstones",
+  "18-capstone-b",
+  "§18 研发场景：Bot + Cursor 云端 Agent + GitHub · Capstone B",
+  "Part 6 完整落地项目 · Capstones"
+ ],
+ [
+  "part7-saving",
+  "19-usage",
+  "§19 额度去哪了 · Where Usage Goes",
+  "Part 7 省钱 · Usage & Saving"
+ ],
+ [
+  "part7-saving",
+  "20-saving",
+  "§20 省钱心法 · Saving",
+  "Part 7 省钱 · Usage & Saving"
+ ],
+ [
+  "part8-pitfalls",
+  "21-incidents",
+  "§21 事故档案 · Incident Files",
+  "Part 8 避坑与事故 · Pitfalls"
+ ],
+ [
+  "part8-pitfalls",
+  "22-troubleshooting",
+  "§22 常见故障速查 · Troubleshooting",
+  "Part 8 避坑与事故 · Pitfalls"
+ ],
+ [
+  "part8-pitfalls",
+  "23-antipatterns",
+  "§23 别这么用 · Anti-Patterns",
+  "Part 8 避坑与事故 · Pitfalls"
+ ],
+ [
+  "part9-mental-models",
+  "24-mental-models",
+  "§24 从 \"聊天\" 到 \"管理\" · Managing, Not Chatting",
+  "Part 9 心智模型 · Mental Models"
+ ],
+ [
+  "appendix",
+  "A1-appendix",
+  "附录 A–E · 速查、价格、模板、连接器、更新日志",
+  "附录 · Appendices"
+ ],
+ [
+  "appendix",
+  "A2-appendix",
+  "附录 F–J · FAQ、术语、竞品、资源、来源总表与勘误",
+  "附录 · Appendices"
+ ],
+ [
+  "appendix",
+  "99-contact",
+  "联系作者 / 加入交流群",
+  "附录 · Appendices"
+ ]
+]
