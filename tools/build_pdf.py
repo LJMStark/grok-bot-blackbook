@@ -9,7 +9,6 @@ for f in glob.glob(f'{R}/images/*.png'):
     if not os.path.exists(o):
         im = Image.open(f).convert('RGB'); im.thumbnail((1600, 1600)); im.save(o, quality=82)
 md = open(f'{R}/book/blackbook-full.md').read()
-md = md.replace('![读者交流群二维码](../images/contact-qr.png)', '')
 md = re.sub(r'\]\(\.\./images/([^)]+)\.png\)', r'](img/\1.jpg)', md)
 # 章节内互链在 PDF 中无意义，保留文字
 md = re.sub(r'\]\(\.\./docs/[^)]*\)', ']()', md)
@@ -41,6 +40,7 @@ code{font-family:"Noto Sans Mono CJK SC",monospace;font-size:9pt}
 blockquote{border-left:4px solid #ddd;margin:8px 0;padding:2px 12px;color:#444;background:#fafafa}
 blockquote.note{border-color:#4a90d9;background:#eef5fc}blockquote.tip{border-color:#2e9e5b;background:#eefaf2}
 .cover{page-break-after:always;text-align:center}.cover img{max-height:260mm;margin:0 auto}
+img[src*="contact-qr"]{width:55mm;max-width:55mm}
 .toc ol{font-size:10.5pt;line-height:2}.toct{border:none}
 '''
 open(f'{B}/book.html', 'w').write(f'<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>Grok Bot 黑皮书：从零到一支 AI 团队</title><style>{css}</style></head><body>{cover}{tochtml}{html}</body></html>')

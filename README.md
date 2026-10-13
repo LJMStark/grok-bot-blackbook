@@ -142,9 +142,9 @@
 |---|---|
 | X（Twitter） | [@StarkLJM](https://x.com/StarkLJM) |
 | 微信 | StarkLJM（加好友请备注「黑皮书」） |
-| 读者交流群 | 【待填：群二维码】 |
+| 读者交流群 | 扫下方二维码加入 |
 
-<img src="images/contact-qr.png" alt="读者交流群二维码（待上传）" width="200">
+<img src="images/contact-qr.png" alt="读者交流群二维码" width="200"><br>扫码加入交流群
 
 卡在哪一步、发现哪里过时、搭出了好用的编制，都欢迎来聊。
 
