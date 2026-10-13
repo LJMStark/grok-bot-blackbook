@@ -17,7 +17,7 @@
 
 ---
 
-一本写给中文用户的 Grok Bot 实战书：从"怎么用上、怎么付钱"开始，到搭出一支分工明确、有审批边界、不乱烧额度的 AI 团队。书里每一条事实都标了出处和可信度标签，你可以自己点开核对。
+一本写给中文用户的 Grok Bot 实战书：从"怎么用上、怎么付钱"开始，到搭出一支分工明确、有审批边界、不乱烧额度的 AI 团队。书里每一条事实都标了出处，你可以自己点开核对。
 
 <div align="center">
 
@@ -47,15 +47,6 @@
 | 🐣 **小白路线** | 第一次用 | [§01](docs/part1-getting-started/01-what-it-is.md) → [§02](docs/part1-getting-started/02-access.md) → [§03](docs/part1-getting-started/03-install.md) → [§04](docs/part1-getting-started/04-first-task.md) |
 | 🚀 **进阶路线** | 已经能用，想用好 | [§05](docs/part2-core-concepts/05-bots.md) → [§08](docs/part2-core-concepts/08-approvals-safety.md) → [§19](docs/part7-saving/19-usage.md) |
 | 👥 **团队路线** | 多 Bot / 团队 | [§12](docs/part4-multi-bot/12-groups.md) → [§13](docs/part4-multi-bot/13-blueprints.md) → [§09](docs/part3-integrations/09-connectors.md) → [§17](docs/part6-capstones/17-capstone-a.md) |
-
-**标签图例**（全书每条事实后都带一个）：
-
-| 标签 | 含义 |
-|---|---|
-| 【官方】 | 有官方文档、官方账号或官方新闻链接 |
-| 【实测】 | 作者在真实环境中亲手复现；【实测·TODO待实测】表示计划实测、尚未完成 |
-| 【社区】 | 用户自述，附原帖链接，未经官方确认 |
-| 【推测】 | 作者自己的判断 |
 
 > [!TIP]
 > 想让你的 Bot 也读一遍？把单文件全书 [`book/blackbook-full.md`](book/blackbook-full.md) 的链接直接发给它当上下文。
@@ -134,10 +125,10 @@
 ## ✅ 事实核查声明
 
 - **最后核查日期：2026-10-13（北京时间）**。
-- 审校共记录 **156 条修正**（第一轮 86 条 + §14–§24 逐句复审 70 条），类别包括无出处内容、事实错误、过时信息、标签误标、死链错链、过度声明。
-- 每一条事实后都附来源链接和可信度标签；附录 J 是全书来源总表，书末有勘误页。
+- 审校共记录 **156 条修正**（第一轮 86 条 + §14–§24 逐句复审 70 条），类别包括无出处内容、事实错误、过时信息、死链错链、过度声明。
+- 每一条事实后都附来源链接；附录 J 是全书来源总表，书末有勘误页。
 - Grok Bot 迭代极快，**一切以官方文档为准**：[docs.x.ai/grok-bot](https://docs.x.ai/grok-bot/overview.md) · [更新日志](https://x.ai/changelog/bot)。
-- 书中的 📸 截图位和【实测·TODO待实测】是尚未补齐的部分，会在后续版本补上。
+- 书中的 📸 截图位和 🧪 待实测是尚未补齐的部分，会在后续版本补上。
 
 发现错误？欢迎[提 Issue](https://github.com/LJMStark/grok-bot-blackbook/issues)，被采纳的勘误会写进勘误页并致谢。
 
