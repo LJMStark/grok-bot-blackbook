@@ -125,25 +125,6 @@ Save this as a routine.
 > [!TIP]
 > 🧪 【实测·TODO待实测】测试每晚定时触发语音备忘在桌面端与移动端的音频合成完整度与转录一致性。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://docs.x.ai/grok-bot/team-bots.md
-- https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- https://x.ai/news/designing-grok-bot
-- https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://www.youtube.com/watch?v=8jkkCniMgBw
-- https://www.youtube.com/watch?v=QBmgF1kJSK4
-- https://x.com/0xRafy/status/2099278275906265417
-- https://x.com/0xRafy/status/2099986062806298991
-- https://x.com/AlexFinn/status/2108319537116725426
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/i/status/2101851806330712339
-- https://x.com/i/status/2107339523038331338
-- https://x.com/kocer_eth/status/2101669438038634827
-
 ---
 
 [← 上一章：§11 中国用户的集成：没有插件也能用 · China Integrations](../part3-integrations/11-china-integrations.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§13 编制案例库 · Team Blueprints →](../part4-multi-bot/13-blueprints.md)

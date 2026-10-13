@@ -76,39 +76,6 @@ From now on, only message another Bot when it needs to act. No acknowledgments, 
 > [!NOTE]
 > 📸 **截图位（待补）**：cursor.com/dashboard/usage 面板中的后台模型调用记录
 
-## 本章来源
-
-- Cursor 帮助中心：Grok Bot 套餐与计费官方说明 https://cursor.com/help/grok-bot/plans
-- Cursor 价格页面官方配置 https://cursor.com/pricing
-- Cursor 用户控制台账单与消费设置 https://cursor.com/dashboard
-- Cursor 控制台用量与模型路由记录 https://cursor.com/dashboard/usage
-- Ofox：Grok Bot 额度周用量与按需消费机制说明 https://ofox.ai/zh/blog/grok-bot-weekly-usage-on-demand-limit/
-- LearnGrokBot：Grok Bot 用量限制与双计量器解析 https://learngrokbot.com/usage-limits
-- LearnGrokBot：额度快速耗尽原因与排查方案 https://learngrokbot.com/usage-running-out
-- GrokBotWiki：周额度限制与按需控制实战指南 https://www.grokbotwiki.com/guides/grok-bot-weekly-usage-limit
-- SpaceXAI 官方文档：技能、Routine 与自动化规范 https://docs.x.ai/grok-bot/skills-routines-and-automations
-- SpaceXAI 官方文档：设置与通知说明 https://docs.x.ai/grok-bot/settings-and-notifications
-- SpaceXAI 官方文档：故障排查指引 https://docs.x.ai/grok-bot/troubleshooting
-- SpaceXAI 官方更新日志：Bot 更新历史 https://x.ai/changelog/bot
-- Cursor 官方论坛：关于 1500 美元周账单的员工回复与长会话 Token 机制披露 https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- Cursor 官方论坛：员工就 Grok Bot 独立周额度池与溢出机制的修正回复 https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796
-- Cursor 官方论坛：员工确认 Credits 赠金在按需扣费前优先消耗 https://forum.cursor.com/t/grok-bot-draining-cursor-credit-pool/169982
-- Cursor 官方论坛：Ultra 用户额度消耗排查与员工优化建议 https://forum.cursor.com/t/grok-bot-ultra-users-how-do-you-make-the-weekly-allowance-last-mine-reached-99-in-three-days/171221
-- Cursor 官方论坛：10 月 8 日全网 Routine 故障与员工确认公告 https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- Cursor 帮助中心：Routine 调度与频率警告 https://cursor.com/help/grok-bot/routines
-- X 平台 @filedfyi 贴出的 90% 与 100% 额度警告横幅截图记录 https://x.com/filedfyi/status/2107109569512014270
-- X 平台官方账号 @bot 说明 Main Bot 自主建议不计入用量 https://x.com/bot/status/2105713241745977618
-- X 平台官方账号 @bot 宣布全员额度重置公告（10 月 3 日 02:05，北京时间） https://x.com/bot/status/2106083136002310193
-- X 平台官方账号 @bot 宣布全员额度重置公告（9 月 6 日 02:24，北京时间） https://x.com/bot/status/2096303514230423629
-- X 平台官方账号 @bot 宣布 8 月 26 日全员额度重置公告 https://x.com/bot/status/2092664183334846840
-- LINUX DO 社区主题 t/2807876：创建 Elon Bot 触发头像更换与生图死循环记录 https://linux.do/t/topic/2807876
-- LINUX DO 社区主题 t/2990677：Grok Bot 路由至 Opus 5.5 与后台查看方法 https://linux.do/t/topic/2990677
-- LINUX DO 社区主题 t/2848179：关于 Cursor Pro 额度折算估算的讨论帖 https://linux.do/t/topic/2848179
-- X 平台 @WildVariable01 分享在云电脑安装 Codex 与封号经验 https://x.com/i/status/2107100457231651312
-- X 平台 @miniyarov 关于每条消息消耗 1% 周额度的推测帖 https://x.com/miniyarov/status/2105428357273800799
-- X 平台 @fleyta88 关于 5 分钟 Routine 触发频率与消耗的讨论帖 https://x.com/fleyta88/status/2109346840382415019
-- didreset.com 额度追踪页面关于官方未公开具体数字的记录 https://didreset.com/limits/grok
-
 ---
 
 [← 上一章：§18 研发场景：Bot + Cursor 云端 Agent + GitHub · Capstone B](../part6-capstones/18-capstone-b.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§20 省钱心法 · Saving →](../part7-saving/20-saving.md)

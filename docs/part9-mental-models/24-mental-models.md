@@ -84,47 +84,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 
 【推测】完全无人干预的自主智能体在严肃商业场景中无法立足。《华尔街日报》关于智能体跑偏出错的报道（未读全文）【社区】（来源：https://www.wsj.com/tech/ai/ai-agents-assistants-shopping-chat-errors-a316d3f9 ），以及官方审批卡约 10 分钟自动过期的设计【官方】（来源：https://docs.x.ai/grok-bot/approvals-security-and-privacy.md ），证明了安全防线必须由人工把守。【推测】“草稿优先”与“权限三档”在未来数年依然是企业级部署的底层基石。**未来真正拉开差距的，不是向 AI 提问的辞藻，而是把复杂业务拆解为自动化工序的组织管理能力**。
 
-## 本章来源
-
-- https://x.ai/bot
-- https://x.ai/news/introducing-grok-bot
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/news/grok-bot-procurement
-- https://x.ai/news/grok-bot-customer-support
-- https://x.ai/news/team-bots
-- https://x.ai/news
-- https://docs.x.ai
-- https://www.wsj.com/tech/ai/ai-agents-assistants-shopping-chat-errors-a316d3f9
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=8xXhE25vJZY
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/cyrilXBT/status/2100094833671254070
-- https://x.com/B_doong2daddy/status/2100573792569303402
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/AlexFinn/status/2108319537116725426
-- https://x.com/sidejob_AJ/status/2108592848300056956
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/poteto/status/2107830403549831186
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/i/status/2106883332432945519
-- https://x.com/i/status/2105404819745718679
-- https://x.com/i/status/2104229085509788008
-- https://x.com/i/status/2108586705695449318
-- https://x.com/i/status/2109516426767654962
-- https://x.com/i/status/2101851806330712339
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2100351900881207770
-- https://x.com/i/status/2109152147325796381
-- https://x.com/i/status/2109300337203183940
-- https://x.com/i/status/2108990316644847920
-
 ---
 
 [← 上一章：§23 别这么用 · Anti-Patterns](../part8-pitfalls/23-antipatterns.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：附录 A–E · 速查、价格、模板、连接器、更新日志 →](../appendix/A1-appendix.md)

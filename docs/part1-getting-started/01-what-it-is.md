@@ -101,43 +101,6 @@ Grok Bot 从上线到写书这天刚好两个月，版本迭代极快，官方 c
 
 *图：竞品定位坐标图——横轴"个人→团队"，纵轴"免费→付费"，标注 Muse / Dots / Grok Bot / OpenClaw / Hermes 的大致位置*
 
-**本章来源**
-
-- https://docs.x.ai/grok-bot/overview.md
-- https://docs.x.ai/grok-bot/computer-and-apps.md
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://x.ai/changelog/bot
-- https://x.ai/news/introducing-grok-bot
-- https://x.ai/news/grok-bot-more-plans
-- https://x.ai/news/grok-bot-and-x
-- https://x.ai/news/grok-bot-for-enterprise
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/news/grok-bot-procurement
-- https://x.ai/news/grok-bot-customer-support
-- https://x.ai/news/team-bots
-- https://x.ai/news/grok-4-6
-- https://x.ai/news/grok-4-7
-- https://x.ai/news/xai-joins-spacex
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.com/poteto/status/2107734770990133319
-- https://x.com/bot/status/2105713240701538538
-- https://x.com/bot/status/2106083136002310193
-- https://x.com/bot/status/2107949161878606089
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/bot/status/2108609764766908772
-- https://x.com/i/status/2106883332432945519
-- https://x.com/i/status/2105404819745718679
-- https://x.com/i/status/2105067074720829819
-- https://x.com/i/status/2105067123081105501
-- https://x.com/i/status/2105195069263225049
-- https://x.com/hejushang8/status/2103760664217174494
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://www.livemint.com/ai/elon-musk-s-grok-bot-hits-418-000-weekly-users-after-one-month-11790093107144.html
-- https://www.aiformortals.co/blog/grok-bot-vs-meta-muse-vs-chatgpt-dots
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- https://x.ai/news/grok-bot-customer-support （Cursor 并入 SpaceXSI）
-
 ---
 
 [← 上一章：《Grok Bot 黑皮书：从零到一支 AI 团队》](../part0-preface/00-preface.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§02 怎么才能用上 · Getting Access →](../part1-getting-started/02-access.md)

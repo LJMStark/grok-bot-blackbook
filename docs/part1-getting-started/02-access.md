@@ -139,30 +139,6 @@ X 上还有人炒作 $GROKBOT 币和所谓「Bot 自主交易」，宣称「本�
 
 *图：「骗局识别卡」——左列是可信信号（官方域名、有出处的社区实测、官方文档链接），右列是红旗信号（要你交 Session JSON、承诺回报率、低价区跳板、零阅读搬运、「国内体验版」）。*
 
-## 本章来源
-
-- https://cursor.com/cn/help/grok-bot/plans
-- https://cursor.com/pricing
-- https://x.ai/news/grok-bot-more-plans
-- https://x.ai/pricing
-- https://x.com/i/status/2109157438226403420
-- https://x.com/i/status/2108488671699816806
-- https://x.com/i/status/2108748981069394279
-- https://x.com/i/status/2108838924491833373
-- https://x.com/i/status/2109482976753127757
-- https://x.com/i/status/2106964584276037798
-- https://x.com/i/status/2107099380847370475
-- https://x.com/i/status/2102291280965640690
-- https://x.com/i/status/2105428357273800799
-- https://x.com/miniyarov/status/2105428357273800799
-- https://www.amz123.com/t/lZiL8LFi
-- https://www.ai345.info/ai-guide/grok-bot-china-guide
-- https://claudemax.shop/blog/grok-bot-guide-supergrok
-- https://docs.x.ai/grok-bot/troubleshooting
-- https://linux.do/t/topic/2743888
-- https://linux.do/t/topic/2848179
-- https://linux.do/t/topic/2961817
-
 ---
 
 [← 上一章：§01 Grok Bot 是什么 · What It Is](../part1-getting-started/01-what-it-is.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§03 十分钟安装与开箱 · Install in 10 Minutes →](../part1-getting-started/03-install.md)

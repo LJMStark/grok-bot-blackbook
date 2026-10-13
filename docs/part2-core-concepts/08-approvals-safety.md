@@ -89,24 +89,6 @@ Grok Bot 在后台并不是简单匹配几个关键词。它的底层跑着一�
 | 黄灯：仅限草稿（每次必弹审批卡） | 向外部发送邮件或通知、社交媒体公开发帖、Shopify 商品信息上架、采购询价与调价发单、删除或覆盖既有数据、修改 Routine 定时规则 | 在 Settings → General → Auto-review 中添加针对发信、变更看板等动作的 Ask first 规则；在初始提示词中固定写入禁止直接发布 | 严格执行草稿优先原则；系统弹出审批卡由人工核实变更影响后再做决策；后台触发的任务若 10 分钟无人审批则自动过期拦截 |
 | 绿灯：允许只读（低影响可自动放行） | 抓取公开网页资讯、阅读非敏感格式文件、比价表格整理、在 /workspace 内部生成报告、拉取只读数据看板、运行 git status 等只读检查 | 在 Settings → General → Auto-review 中针对指定路径下的安全只读命令配置 Allow automatically 规则；连接只读性质插件 | 限制在隔离的 Firecracker microVM 云电脑内执行；由 Auto Review 模型做后台安全校验；不赋予任何不可逆写权限 |
 
-### 本章来源
-
-- 官方审批、安全与隐私文档：[https://docs.x.ai/grok-bot/approvals-security-and-privacy.md](https://docs.x.ai/grok-bot/approvals-security-and-privacy.md)
-- 官方 Grok Bot 安全总览：[https://docs.x.ai/grok-bot/security.md](https://docs.x.ai/grok-bot/security.md)
-- 官方 Grok Bot 安全 FAQ：[https://docs.x.ai/grok-bot/security-faq.md](https://docs.x.ai/grok-bot/security-faq.md)
-- 官方机密安全存储指南：[https://cursor.com/help/grok-bot/secrets](https://cursor.com/help/grok-bot/secrets)
-- 官方设计文章限制说明：[https://x.ai/news/designing-grok-bot](https://x.ai/news/designing-grok-bot)
-- 官方采购 Haggle Bot 案例：[https://x.ai/news/grok-bot-procurement](https://x.ai/news/grok-bot-procurement)
-- 官方客服自动化演进案例：[https://x.ai/news/grok-bot-customer-support](https://x.ai/news/grok-bot-customer-support)
-- Matt Palmer 官方每周更新（内联表单与路由）：[https://x.com/mattyp/status/2102759899314741736](https://x.com/mattyp/status/2102759899314741736)
-- Cybernews 报道 Shane Mac 银行数据泄露事故：[https://cybernews.com/ai-news/grok-bot-leaks-bank-information/](https://cybernews.com/ai-news/grok-bot-leaks-bank-information/)
-- 可波 AI 白话 7 天试用安全风险与单机共享解析：[https://ytget.cc/entry/grok-bot-chinese-test-7-day-trial-security-risks](https://ytget.cc/entry/grok-bot-chinese-test-7-day-trial-security-risks)
-- Michael Fenech 新手进阶与高风险动作加闸规则：[https://x.com/Michael_Fenech_/status/2105697750645977298](https://x.com/Michael_Fenech_/status/2105697750645977298)
-- fleyta88 关于后台审批 10 分钟超时的 Routine 审计分析：[https://x.com/fleyta88/status/2109346840382415019](https://x.com/fleyta88/status/2109346840382415019)
-- 社区群聊误输密码翻车事故：[https://x.com/i/status/2107339523038331338](https://x.com/i/status/2107339523038331338)
-- 社区多 Bot 同机并发被外部网站封锁案例：[https://x.com/i/status/2100351900881207770](https://x.com/i/status/2100351900881207770)
-- Reddit 用户关于 WhatsApp 个人账号被封禁反馈：[https://www.reddit.com/r/GrokBot/comments/1w11r70/](https://www.reddit.com/r/GrokBot/comments/1w11r70/)
-
 ---
 
 [← 上一章：§07 Skill 与 Routine：教一次，让它照着做 · Skills & Routines](../part2-core-concepts/07-skills-routines.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§09 连接器与 Marketplace · Connectors →](../part3-integrations/09-connectors.md)

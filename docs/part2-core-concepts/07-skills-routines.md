@@ -152,25 +152,6 @@ Do not modify, pause, or delete any routine without my explicit confirmation.
 
 说到底，**例行自动化本身只是过程，如果输出结果从未影响过你的任何实际决策，它就是在白白烧钱**【社区】（https://www.youtube.com/watch?v=LM7Ft7g8qJw ）。定期大扫除，留下真正能办事的坚固闭环，你的 Bot 团队才算上了正轨。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://docs.x.ai/grok-bot/faq.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://github.com/KinGao294/grok-bot-orange-book
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/cyrilXBT/status/2100094833671254070
-- https://x.com/B_doong2daddy/status/2100573792569303402
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/i/status/2109516426767654962
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=8xXhE25vJZY
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-
 ---
 
 [← 上一章：§06 云电脑：它的工位 · The Computer](../part2-core-concepts/06-computer.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§08 审批与安全边界 · Approvals & Safety →](../part2-core-concepts/08-approvals-safety.md)

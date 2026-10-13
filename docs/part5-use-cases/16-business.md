@@ -245,29 +245,6 @@ Routine 可以挂接在财务账单审批流上，每月巡检一次续约项目
 > [!TIP]
 > 🧪 【实测·TODO待实测】测试房产预约表单在遭遇时间冲突时自动计算备选带看时段的准确率。
 
-## 本章来源
-
-- Cursor 定价与套餐说明：https://cursor.com/pricing
-- Grok Bot 方案与使用限制说明：https://cursor.com/help/grok-bot/plans
-- Grok Bot 官方安全白皮书：https://cursor.com/docs/grok-bot/security
-- Grok Bot 官方岗位实战指南总览：https://x.ai/bot/guides
-- 销售岗位指南与市场 Bot 列表：https://x.ai/bot/guides/sales
-- 招聘岗位指南与市场 Bot 列表：https://x.ai/bot/guides/recruiting
-- 法务岗位指南与市场 Bot 列表：https://x.ai/bot/guides/legal
-- 客户支持岗位指南与市场 Bot 列表：https://x.ai/bot/guides/support
-- 市场营销岗位指南与市场 Bot 列表：https://x.ai/bot/guides/marketing
-- Grok Bot 企业版发布官方公告：https://x.ai/news/grok-bot-for-enterprise
-- Grok Bot 团队功能 Team Bots 发布公告：https://x.ai/news/team-bots
-- Grok Bot 采购案例分析（Haggle Bot）：https://x.ai/news/grok-bot-procurement
-- Grok Bot 客户支持团队实践案例：https://x.ai/news/grok-bot-customer-support
-- Grok Bot 更多套餐支持官方公告：https://x.ai/news/grok-bot-more-plans
-- 官方 @bot 账号 Shopify 集成发布推文：https://x.com/bot/status/2108228871938359347
-- @0xEcho99 出海找新词建站实战推文：https://x.com/0xEcho99/status/2108927962305511520
-- @Hensen1016 跨境电商竞品巡检与痛点分析推文：https://x.com/Hensen1016/status/2108025562048483583
-- @miniyarov Cursor Pro 额度消耗反馈推文：https://x.com/miniyarov/status/2105428357273800799
-- @xiaohu 本地出口路由解析推文：https://x.com/xiaohu/status/2099409639234289914
-- Cybernews 关于 Grok Bot 银行数据泄露事件报道：https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-
 ---
 
 [← 上一章：§15 内容创作 · Creators](../part5-use-cases/15-creators.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§17 从零搭一个“中文内容工作室” · Capstone A: Building a Chinese Content Studio →](../part6-capstones/17-capstone-a.md)

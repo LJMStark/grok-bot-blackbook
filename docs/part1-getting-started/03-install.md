@@ -120,18 +120,6 @@ Linux 在下载页的 More downloads 区域，提供 `.deb`（Debian/Ubuntu）�
 > [!NOTE]
 > 📸 **截图位（待补）**：iOS 2 张（主屏幕 Bot 列表 + 语音输入界面）、Android 2 张（对话页 + 审批卡片）
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/get-started.md
-- https://docs.x.ai/grok-bot/identity-and-access.md
-- https://docs.x.ai/grok-bot/troubleshooting.md
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://docs.x.ai/grok-bot/settings-and-notifications.md
-- https://docs.x.ai/grok-bot/mobile.md
-- https://www.thetechoutlook.com/new-release/software-apps/grok-bot-is-now-available-on-android/
-- https://x.com/cgnot996/status/2108504325609984233
-- https://cursor.com/cn/docs/grok-bot
-
 ---
 
 [← 上一章：§02 怎么才能用上 · Getting Access](../part1-getting-started/02-access.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§04 你的第一个任务 · Your First Task →](../part1-getting-started/04-first-task.md)

@@ -119,30 +119,6 @@ Nate B Jones 在视频里提过：人们常常把流程本身当成了创造出�
 
 如果答案是没有，就把它关掉。额度要花钱，注意力也一样。
 
-## 本章来源
-
-- INDEX.md（研究索引与计数）
-- zh/zh-summary.md（中文平台研究汇总）
-- huashu-analysis.md §2/§4/§6/§7（花叔橙皮书分析）
-- orange-book-gap.md §1–§4（Kin 橙皮书精读与差距分析）
-- workflows.md §B4/§B5/§D（Routine 成本审计、淘汰审计、反模式）
-- zh/competitors/README.md（中文竞品指南对照）
-- Grok Bot 官方客服案例：https://x.ai/news/grok-bot-customer-support
-- Grok Bot 官方采购案例：https://x.ai/news/grok-bot-procurement
-- 马斯克 Opus 5.5 原帖：https://x.com/elonmusk/status/2107724314451878104
-- @poteto Opus 5.5 确认：https://x.com/poteto/status/2107734770990133319
-- Cursor 中文计划页：https://cursor.com/cn/help/grok-bot/plans
-- Kin 橙皮书 GitHub：https://github.com/KinGao294/grok-bot-orange-book
-- 超级峰粉皮书：https://chaojifeng.me/free-courses/grok
-- 蓝皮书 v0.1：https://ai.lzw.me/best-blogs/article/9b80b0ebd1
-- 花叔系列橙皮书：https://github.com/alchaincyf/claude-code-orange-book
-- 花叔 Hermes 橙皮书勘误：https://github.com/alchaincyf/hermes-agent-orange-book
-- "AI 泔水"质疑帖：https://x.com/realchendahuang/status/2108754825181859970
-- 微信读书评价统计：https://x.com/Jack_FluxAI/status/2108809412614009056
-- Routine 淘汰审计提示词：https://x.com/kocer_eth/status/2101669438038634827
-- Nate B Jones "process ≠ value"：https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- Bloomberg/Mint 周活数据：https://www.livemint.com/ai/elon-musk-s-grok-bot-hits-418-000-weekly-users-after-one-month-11790093107144.html
-
 ---
 
 [📖 返回目录](../../README.md#-目录) ｜ [下一章：§01 Grok Bot 是什么 · What It Is →](../part1-getting-started/01-what-it-is.md)

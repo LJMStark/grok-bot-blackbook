@@ -93,28 +93,6 @@ Bot 收到后会让你确认服务信息并完成挂载。两个硬性条件：�
 > [!TIP]
 > 🧪 【实测·TODO待实测】同一任务分别用 Computer use、MCP、API 完成的差异。
 
-## 本章来源
-
-- 官方 Marketplace 页面：https://x.ai/bot/marketplace
-- 官方 Grok Build 插件市场发布公告：https://x.ai/news/grok-plugin-marketplace
-- 官方 GitHub 插件市场目录仓库：https://github.com/xai-org/plugin-marketplace
-- 官方 Connectors 发布公告：https://x.ai/news/grok-connectors
-- 官方 Connectors 开发文档：https://docs.x.ai/grok/connectors
-- 官方 Grok Bot 常见问答文档：https://docs.x.ai/grok-bot/faq.md
-- 第三方 Grok Bot 插件深度指南：https://learngrokbot.com/plugins
-- 社区博主 @1920web1080 连接器数量帖：https://x.com/1920web1080/status/2107160327112777835
-- 社区开源项目 awesome-grok-bot-plugins：https://github.com/rdmgator12/awesome-grok-bot-plugins
-- Reddit 社区 WhatsApp 封号讨论：https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- Reddit 社区 LinkedIn 会话失效讨论：https://www.reddit.com/r/GrokBot/comments/1wp291u/
-- 官方 @bot 账号 Finance 插件发布公告：https://x.com/bot/status/2103936247995752705
-- 官方 @bot 账号 Shopify 插件发布公告：https://x.com/bot/status/2108228871938359347
-- Cybernews 关于 Grok Bot 银行数据泄露事件报道：https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- RuntimeWire 关于 Shane Mac 财务审计泄露报道：https://runtimewire.com/article/xmtp-shane-mac-grok-bot-bank-audit-slack
-- 官方 Team Bots 发布公告：https://x.ai/news/team-bots
-- 官方 Grok Bot 企业版发布公告：https://x.ai/news/grok-bot-for-enterprise
-- 社区博主 @Michael_Fenech_ 工具集成选型逻辑：https://x.com/Michael_Fenech_/status/2102048957777981938
-- 官方 Grok Bot 101 直播录像：https://www.youtube.com/watch?v=8xXhE25vJZY
-
 ---
 
 [← 上一章：§08 审批与安全边界 · Approvals & Safety](../part2-core-concepts/08-approvals-safety.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§10 官方合作集成逐个讲 · Partner Integrations →](../part3-integrations/10-partners.md)

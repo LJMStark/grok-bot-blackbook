@@ -88,30 +88,6 @@ Cursor 团队员工 @deanrie 和 @kevinn 在论坛给出了原因说明【官方
 > [!NOTE]
 > 📸 **截图位（待补）**：Routine 全部失败且运行记录显示 Failed 的排查界面
 
-## 本章来源
-
-- https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://runtimewire.com/article/xmtp-shane-mac-grok-bot-bank-audit-slack
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy
-- https://cursor.com/docs/grok-bot/security
-- https://x.com/bot/status/2103936247995752705
-- https://forum.cursor.com/t/grok-bot-conversation-history-and-newly-created-bots-groups-suddenly-rolled-back-and-synchronized-across-all-devices/171008
-- https://cursor.com/help/grok-bot/computer-recovery.md
-- https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- https://www.whatsapp.com/legal/third-party-agents-terms
-- https://learngrokbot.com/plugins
-- https://x.com/i/status/2107339523038331338
-- https://docs.x.ai/grok-bot/chat-and-collaboration
-- https://x.ai/news/team-bots
-- https://x.com/i/status/2100351900881207770
-- https://docs.x.ai/grok-bot/computer-and-apps
-- https://linux.do/t/topic/2860519
-- https://status.cursor.com
-- https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138
-- https://forum.cursor.com/t/grok-bot-failed-to-respond-on-every-bot-after-reset-recover-computer/173919
-
 ---
 
 [← 上一章：§20 省钱心法 · Saving](../part7-saving/20-saving.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§22 常见故障速查 · Troubleshooting →](../part8-pitfalls/22-troubleshooting.md)

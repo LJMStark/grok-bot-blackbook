@@ -152,28 +152,6 @@ You have six hours tonight. Clean up dead logic, optimize bundle size, and impro
 > [!NOTE]
 > 📸 **截图位（待补）**：Dashboard/usage 界面展示的周额度与 Cursor Cloud Agent 消耗曲线
 
-## 本章来源
-
-- https://x.ai/bot/guides/grok-bot-for-engineering
-- https://x.ai/bot/guides/engineering
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/changelog/bot
-- https://cursor.com/pricing
-- https://cursor.com/help/grok-bot/plans
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.com/i/status/2101944767412129920
-- https://x.com/i/status/2103438409553604976
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2109265867859177552
-- https://x.com/i/status/2109300337203183940
-- https://x.com/i/status/2108990316644847920
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/fleyta88/status/2109346840382415019
-- https://penchan.co/ai/grok/grok-bot/
-
 ---
 
 [← 上一章：§17 从零搭一个“中文内容工作室” · Capstone A: Building a Chinese Content Studio](../part6-capstones/17-capstone-a.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§19 额度去哪了 · Where Usage Goes →](../part7-saving/19-usage.md)

@@ -115,31 +115,6 @@ Nate B Jones 在视频里提过：人们常常把流程本身当成了创造出�
 
 如果答案是没有，就把它关掉。额度要花钱，注意力也一样。
 
-## 本章来源
-
-- INDEX.md（研究索引与计数）
-- zh/zh-summary.md（中文平台研究汇总）
-- huashu-analysis.md §2/§4/§6/§7（花叔橙皮书分析）
-- orange-book-gap.md §1–§4（Kin 橙皮书精读与差距分析）
-- workflows.md §B4/§B5/§D（Routine 成本审计、淘汰审计、反模式）
-- zh/competitors/README.md（中文竞品指南对照）
-- Grok Bot 官方客服案例：https://x.ai/news/grok-bot-customer-support
-- Grok Bot 官方采购案例：https://x.ai/news/grok-bot-procurement
-- 马斯克 Opus 5.5 原帖：https://x.com/elonmusk/status/2107724314451878104
-- @poteto Opus 5.5 确认：https://x.com/poteto/status/2107734770990133319
-- Cursor 中文计划页：https://cursor.com/cn/help/grok-bot/plans
-- Kin 橙皮书 GitHub：https://github.com/KinGao294/grok-bot-orange-book
-- 超级峰粉皮书：https://chaojifeng.me/free-courses/grok
-- 蓝皮书 v0.1：https://ai.lzw.me/best-blogs/article/9b80b0ebd1
-- 花叔系列橙皮书：https://github.com/alchaincyf/claude-code-orange-book
-- 花叔 Hermes 橙皮书勘误：https://github.com/alchaincyf/hermes-agent-orange-book
-- "AI 泔水"质疑帖：https://x.com/realchendahuang/status/2108754825181859970
-- 微信读书评价统计：https://x.com/Jack_FluxAI/status/2108809412614009056
-- Routine 淘汰审计提示词：https://x.com/kocer_eth/status/2101669438038634827
-- Nate B Jones "process ≠ value"：https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- Bloomberg/Mint 周活数据：https://www.livemint.com/ai/elon-musk-s-grok-bot-hits-418-000-weekly-users-after-one-month-11790093107144.html
-
-
 # §01 Grok Bot 是什么 · What It Is
 
 ## 1.1 一句话讲清 Grok、Grok Bot、Cursor 的关系 · Grok vs Grok Bot
@@ -238,44 +213,6 @@ Grok Bot 从上线到写书这天刚好两个月，版本迭代极快，官方 c
 ![竞品定位坐标图——横轴"个人→团队"，纵轴"免费→付费"，标注 Muse / Dots / Grok Bot / OpenClaw / Hermes 的大致位置](../images/fig-01-5.png)
 
 *图：竞品定位坐标图——横轴"个人→团队"，纵轴"免费→付费"，标注 Muse / Dots / Grok Bot / OpenClaw / Hermes 的大致位置*
-
-**本章来源**
-
-- https://docs.x.ai/grok-bot/overview.md
-- https://docs.x.ai/grok-bot/computer-and-apps.md
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://x.ai/changelog/bot
-- https://x.ai/news/introducing-grok-bot
-- https://x.ai/news/grok-bot-more-plans
-- https://x.ai/news/grok-bot-and-x
-- https://x.ai/news/grok-bot-for-enterprise
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/news/grok-bot-procurement
-- https://x.ai/news/grok-bot-customer-support
-- https://x.ai/news/team-bots
-- https://x.ai/news/grok-4-6
-- https://x.ai/news/grok-4-7
-- https://x.ai/news/xai-joins-spacex
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.com/poteto/status/2107734770990133319
-- https://x.com/bot/status/2105713240701538538
-- https://x.com/bot/status/2106083136002310193
-- https://x.com/bot/status/2107949161878606089
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/bot/status/2108609764766908772
-- https://x.com/i/status/2106883332432945519
-- https://x.com/i/status/2105404819745718679
-- https://x.com/i/status/2105067074720829819
-- https://x.com/i/status/2105067123081105501
-- https://x.com/i/status/2105195069263225049
-- https://x.com/hejushang8/status/2103760664217174494
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://www.livemint.com/ai/elon-musk-s-grok-bot-hits-418-000-weekly-users-after-one-month-11790093107144.html
-- https://www.aiformortals.co/blog/grok-bot-vs-meta-muse-vs-chatgpt-dots
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- https://x.ai/news/grok-bot-customer-support （Cursor 并入 SpaceXSI）
-
 
 # §02 怎么才能用上 · Getting Access
 
@@ -414,31 +351,6 @@ X 上还有人炒作 $GROKBOT 币和所谓「Bot 自主交易」，宣称「本�
 
 *图：「骗局识别卡」——左列是可信信号（官方域名、有出处的社区实测、官方文档链接），右列是红旗信号（要你交 Session JSON、承诺回报率、低价区跳板、零阅读搬运、「国内体验版」）。*
 
-## 本章来源
-
-- https://cursor.com/cn/help/grok-bot/plans
-- https://cursor.com/pricing
-- https://x.ai/news/grok-bot-more-plans
-- https://x.ai/pricing
-- https://x.com/i/status/2109157438226403420
-- https://x.com/i/status/2108488671699816806
-- https://x.com/i/status/2108748981069394279
-- https://x.com/i/status/2108838924491833373
-- https://x.com/i/status/2109482976753127757
-- https://x.com/i/status/2106964584276037798
-- https://x.com/i/status/2107099380847370475
-- https://x.com/i/status/2102291280965640690
-- https://x.com/i/status/2105428357273800799
-- https://x.com/miniyarov/status/2105428357273800799
-- https://www.amz123.com/t/lZiL8LFi
-- https://www.ai345.info/ai-guide/grok-bot-china-guide
-- https://claudemax.shop/blog/grok-bot-guide-supergrok
-- https://docs.x.ai/grok-bot/troubleshooting
-- https://linux.do/t/topic/2743888
-- https://linux.do/t/topic/2848179
-- https://linux.do/t/topic/2961817
-
-
 # §03 十分钟安装与开箱 · Install in 10 Minutes
 
 上一章搞定了账号和资格。这一章我们直接动手：把 Grok Bot 装好、登进去、认清界面、改掉几个容易踩坑的默认设置，最后把手机端也连上。整个过程十分钟搞定。
@@ -556,19 +468,6 @@ Linux 在下载页的 More downloads 区域，提供 `.deb`（Debian/Ubuntu）�
 
 > [!NOTE]
 > 📸 **截图位（待补）**：iOS 2 张（主屏幕 Bot 列表 + 语音输入界面）、Android 2 张（对话页 + 审批卡片）
-
-## 本章来源
-
-- https://docs.x.ai/grok-bot/get-started.md
-- https://docs.x.ai/grok-bot/identity-and-access.md
-- https://docs.x.ai/grok-bot/troubleshooting.md
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://docs.x.ai/grok-bot/settings-and-notifications.md
-- https://docs.x.ai/grok-bot/mobile.md
-- https://www.thetechoutlook.com/new-release/software-apps/grok-bot-is-now-available-on-android/
-- https://x.com/cgnot996/status/2108504325609984233
-- https://cursor.com/cn/docs/grok-bot
-
 
 # §04 你的第一个任务 · Your First Task
 
@@ -764,18 +663,6 @@ Stop now
 4. 约束条件：如果所有输入文章均不符合上述筛选标准，直接回复一行文字说明“未发现符合标准的有效案例”，不要强行凑数。
 ```
 
-## 本章来源 · Sources
-
-- 官方快速上手文档：https://docs.x.ai/grok-bot/get-started.md
-- 官方消息与协作文档：https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- 官方设计理念与架构解析：https://x.ai/news/designing-grok-bot
-- 官方采购场景与 Haggle Bot 系统架构：https://x.ai/news/grok-bot-procurement
-- Lauren（@poteto）新手 App 连接建议推文：https://x.com/poteto/status/2107830403549831186
-- Kin《Grok Bot 橙皮书》本地及开源副本：https://github.com/KinGao294/grok-bot-orange-book
-- Sorla YouTube 频道 Gmail 自动化助理实测：https://www.youtube.com/watch?v=qL8alDehpBs
-- Rowan Cheung 关于 X 监控工作流与过滤规则的分享：https://x.com/rowancheung/status/2108328114552000842
-
-
 # §05 Bot：给每个同事一份岗位说明书 · Bots & Profiles
 
 ## 5.1 一个 Bot 等于什么 · Anatomy
@@ -943,26 +830,6 @@ V2EX 用户 @zhuyinan 在对比本地部署的 Hermes 框架与 Grok Bot 时，�
 > [!NOTE]
 > 📸 **截图位（待补）**：Share as Template 预览详情页（显示包含的 Memory、Skills 与 Plugins 清单）
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/bots.md
-- https://x.ai/news/designing-grok-bot
-- https://juejin.cn/post/7682695577956483091
-- https://x.ai/news/grok-bot-procurement
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/poteto/status/2107830403549831186
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://www.v2ex.com/t/1240012
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://x.ai/bot/guides/templates-for-grok-bot
-- https://x.ai/legal/bot-sharing-terms
-- https://chaojifeng.me/free-courses/grok/learn/basic-06
-- https://chaojifeng.me/free-courses/grok/learn/field-01
-
-
 # §06 云电脑：它的工位 · The Computer
 
 很多人刚接触 Grok Bot，会以为它和 ChatGPT 或 Claude 一样，只是网页上的一个对话框。但我翻完官方文档和社区讨论后发现，关掉笔记本它还在跑，下载的文件随时能翻看，一个 Bot 登过的账号换个 Bot 也能直接用。马斯克和 Cursor 团队给每个账号配的，根本不是一个单纯的聊天模型，而是一台常驻云端的电脑。
@@ -1075,26 +942,6 @@ NodeSeek 和 LINUX DO 上有社区帖称（个例，配置可能随时调整）�
 3. 严格禁止在脚本中硬编码任何敏感密钥或密码；若需认证，请在操作卡片中提示我手动确认。
 4. 任务执行完成后，清理临时目录中的无用缓存，并在回复中列出产出文件的绝对路径。
 ```
-
-### 本章来源
-
-- 官方文档：Files and results，https://docs.x.ai/grok-bot/files-and-results.md
-- 官方文档：Use the computer and apps，https://docs.x.ai/grok-bot/computer-and-apps.md
-- 官方文档：Manage Grok Bot computers，https://docs.x.ai/grok-bot/computers.md
-- 官方帮助：Grok Bot computer recovery，https://cursor.com/help/grok-bot/computer-recovery.md
-- 官方文档：Configure TLS-inspecting proxies，https://docs.x.ai/grok-bot/proxies.md
-- 官方文档：Connect to private networks，https://docs.x.ai/grok-bot/private-networks.md
-- 官方论坛：9/8 Grok Bot 账户历史回滚事故讨论与员工回复，https://forum.cursor.com/t/grok-bot-conversation-history-and-newly-created-bots-groups-suddenly-rolled-back-and-synchronized-across-all-devices/171008
-- LINUX DO：也算是体验上了马斯克的 Grok bot，https://linux.do/t/topic/2781038
-- LINUX DO：惊！Grok Bot竟在我电脑上...，https://linux.do/t/topic/2807876
-- LINUX DO：我的grok bot 链接不上云电脑了，https://linux.do/t/topic/2860519
-- LINUX DO：网页版GPT接入GrokBot的机器，https://linux.do/t/topic/2875793
-- LINUX DO：讲一下这几天用grok bot 的小心得，https://linux.do/t/topic/2906870
-- LINUX DO：老马你来真的啊，grok bot真路由opus5.5了，https://linux.do/t/topic/2990677
-- NodeSeek：Grok Bot 免费 8核16G 机器实测，https://www.nodeseek.com/post-878897-1
-- NodeSeek：Grok发邮件试用，领了后下载Grok Bot，https://www.nodeseek.com/post-906175-1
-- 即刻 App：Grok bot 里边自带的虚拟机玩法，https://m.okjike.com/originalPosts/6a9b0894756bbb6658bf093d
-
 
 # §07 Skill 与 Routine：教一次，让它照着做 · Skills & Routines
 
@@ -1246,26 +1093,6 @@ Do not modify, pause, or delete any routine without my explicit confirmation.
 
 说到底，**例行自动化本身只是过程，如果输出结果从未影响过你的任何实际决策，它就是在白白烧钱**【社区】（https://www.youtube.com/watch?v=LM7Ft7g8qJw ）。定期大扫除，留下真正能办事的坚固闭环，你的 Bot 团队才算上了正轨。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://docs.x.ai/grok-bot/faq.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://github.com/KinGao294/grok-bot-orange-book
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/cyrilXBT/status/2100094833671254070
-- https://x.com/B_doong2daddy/status/2100573792569303402
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/i/status/2109516426767654962
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=8xXhE25vJZY
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-
-
 # §08 审批与安全边界 · Approvals & Safety
 
 很多新手刚接触 Grok Bot，总以为它跟普通聊天 AI 差不多，甚至直接在对话框里贴密码。社区里确实有翻车案例（见 8.2、8.3）。给 Bot 派活之前，必须先弄明白三件事：审批机制怎么跑、哪些账号绝对不能碰、安全红线到底画在哪。
@@ -1352,25 +1179,6 @@ Grok Bot 在后台并不是简单匹配几个关键词。它的底层跑着一�
 | 红灯：严禁授权（必须人工亲自接管） | 个人与公司网络银行、证券交易、资金转账、主邮箱主密码、核心生产数据库、最高控制台登录、双重验证（2FA）输入、签署法律协议 | 严禁在云电脑登录任何网银或主账号；在 Settings 中将 Execution on Local Computer 设为 Never allow；企业版配置 Network Controls 域名白名单 | 遇到登录与支付步骤，强制打开 Agent Computer 点击 Take control 手动接管；绝不在普通聊天中粘贴任何凭据文本 |
 | 黄灯：仅限草稿（每次必弹审批卡） | 向外部发送邮件或通知、社交媒体公开发帖、Shopify 商品信息上架、采购询价与调价发单、删除或覆盖既有数据、修改 Routine 定时规则 | 在 Settings → General → Auto-review 中添加针对发信、变更看板等动作的 Ask first 规则；在初始提示词中固定写入禁止直接发布 | 严格执行草稿优先原则；系统弹出审批卡由人工核实变更影响后再做决策；后台触发的任务若 10 分钟无人审批则自动过期拦截 |
 | 绿灯：允许只读（低影响可自动放行） | 抓取公开网页资讯、阅读非敏感格式文件、比价表格整理、在 /workspace 内部生成报告、拉取只读数据看板、运行 git status 等只读检查 | 在 Settings → General → Auto-review 中针对指定路径下的安全只读命令配置 Allow automatically 规则；连接只读性质插件 | 限制在隔离的 Firecracker microVM 云电脑内执行；由 Auto Review 模型做后台安全校验；不赋予任何不可逆写权限 |
-
-### 本章来源
-
-- 官方审批、安全与隐私文档：[https://docs.x.ai/grok-bot/approvals-security-and-privacy.md](https://docs.x.ai/grok-bot/approvals-security-and-privacy.md)
-- 官方 Grok Bot 安全总览：[https://docs.x.ai/grok-bot/security.md](https://docs.x.ai/grok-bot/security.md)
-- 官方 Grok Bot 安全 FAQ：[https://docs.x.ai/grok-bot/security-faq.md](https://docs.x.ai/grok-bot/security-faq.md)
-- 官方机密安全存储指南：[https://cursor.com/help/grok-bot/secrets](https://cursor.com/help/grok-bot/secrets)
-- 官方设计文章限制说明：[https://x.ai/news/designing-grok-bot](https://x.ai/news/designing-grok-bot)
-- 官方采购 Haggle Bot 案例：[https://x.ai/news/grok-bot-procurement](https://x.ai/news/grok-bot-procurement)
-- 官方客服自动化演进案例：[https://x.ai/news/grok-bot-customer-support](https://x.ai/news/grok-bot-customer-support)
-- Matt Palmer 官方每周更新（内联表单与路由）：[https://x.com/mattyp/status/2102759899314741736](https://x.com/mattyp/status/2102759899314741736)
-- Cybernews 报道 Shane Mac 银行数据泄露事故：[https://cybernews.com/ai-news/grok-bot-leaks-bank-information/](https://cybernews.com/ai-news/grok-bot-leaks-bank-information/)
-- 可波 AI 白话 7 天试用安全风险与单机共享解析：[https://ytget.cc/entry/grok-bot-chinese-test-7-day-trial-security-risks](https://ytget.cc/entry/grok-bot-chinese-test-7-day-trial-security-risks)
-- Michael Fenech 新手进阶与高风险动作加闸规则：[https://x.com/Michael_Fenech_/status/2105697750645977298](https://x.com/Michael_Fenech_/status/2105697750645977298)
-- fleyta88 关于后台审批 10 分钟超时的 Routine 审计分析：[https://x.com/fleyta88/status/2109346840382415019](https://x.com/fleyta88/status/2109346840382415019)
-- 社区群聊误输密码翻车事故：[https://x.com/i/status/2107339523038331338](https://x.com/i/status/2107339523038331338)
-- 社区多 Bot 同机并发被外部网站封锁案例：[https://x.com/i/status/2100351900881207770](https://x.com/i/status/2100351900881207770)
-- Reddit 用户关于 WhatsApp 个人账号被封禁反馈：[https://www.reddit.com/r/GrokBot/comments/1w11r70/](https://www.reddit.com/r/GrokBot/comments/1w11r70/)
-
 
 # §09 连接器与 Marketplace · Connectors
 
@@ -1462,29 +1270,6 @@ Bot 收到后会让你确认服务信息并完成挂载。两个硬性条件：�
 
 > [!TIP]
 > 🧪 【实测·TODO待实测】同一任务分别用 Computer use、MCP、API 完成的差异。
-
-## 本章来源
-
-- 官方 Marketplace 页面：https://x.ai/bot/marketplace
-- 官方 Grok Build 插件市场发布公告：https://x.ai/news/grok-plugin-marketplace
-- 官方 GitHub 插件市场目录仓库：https://github.com/xai-org/plugin-marketplace
-- 官方 Connectors 发布公告：https://x.ai/news/grok-connectors
-- 官方 Connectors 开发文档：https://docs.x.ai/grok/connectors
-- 官方 Grok Bot 常见问答文档：https://docs.x.ai/grok-bot/faq.md
-- 第三方 Grok Bot 插件深度指南：https://learngrokbot.com/plugins
-- 社区博主 @1920web1080 连接器数量帖：https://x.com/1920web1080/status/2107160327112777835
-- 社区开源项目 awesome-grok-bot-plugins：https://github.com/rdmgator12/awesome-grok-bot-plugins
-- Reddit 社区 WhatsApp 封号讨论：https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- Reddit 社区 LinkedIn 会话失效讨论：https://www.reddit.com/r/GrokBot/comments/1wp291u/
-- 官方 @bot 账号 Finance 插件发布公告：https://x.com/bot/status/2103936247995752705
-- 官方 @bot 账号 Shopify 插件发布公告：https://x.com/bot/status/2108228871938359347
-- Cybernews 关于 Grok Bot 银行数据泄露事件报道：https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- RuntimeWire 关于 Shane Mac 财务审计泄露报道：https://runtimewire.com/article/xmtp-shane-mac-grok-bot-bank-audit-slack
-- 官方 Team Bots 发布公告：https://x.ai/news/team-bots
-- 官方 Grok Bot 企业版发布公告：https://x.ai/news/grok-bot-for-enterprise
-- 社区博主 @Michael_Fenech_ 工具集成选型逻辑：https://x.com/Michael_Fenech_/status/2102048957777981938
-- 官方 Grok Bot 101 直播录像：https://www.youtube.com/watch?v=8xXhE25vJZY
-
 
 # §10 官方合作集成逐个讲 · Partner Integrations
 
@@ -1602,48 +1387,6 @@ Notion 不只用来抓取或生成单篇笔记，官方把它当成长周期的�
 > 🧪 【实测·TODO待实测】1Password 专用库登录时的审批与日志脱敏。
 
 有社区帖提到，曾有用户在多 Bot 群聊里误输入明文密码，导致同一群组的所有 Bot 全部捕获到了凭据（个例）【社区】（https://x.com/i/status/2107339523038331338 ）。**绝不能在共享群聊中向 Bot 发送明文凭据**，任何外部访问必须通过专用的密码库或环境变量 Secrets 管理。在对接 Salesforce 等关键业务数据库时，如果后台未设置严格的字段级只读策略，Bot 误操作可能会覆盖销售阶段与客户线索。
-
-### 本章来源
-
-- https://x.ai/news/composer-2-5
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.ai/bot/guides/grok-bot-for-engineering
-- https://x.com/i/status/2105881504744460675
-- https://linux.do/t/topic/2990677
-- https://linux.do/t/topic/2991033
-- https://x.com/i/status/2109088800903483616
-- https://x.ai/cli/install.sh
-- https://x.com/bot/status/2105373767568621895
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/team-bots.md
-- https://x.ai/news/team-bots
-- https://cursor.com/bot/slack-auto-approve
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.ai/news/grok-bot-and-x
-- https://x.com/bot/status/2107949161878606089
-- https://docs.x.ai/grok-bot/tag-on-x.md
-- https://x.com/rowancheung/status/2108328114552000842
-- https://linux.do/t/topic/3004566
-- https://x.com/bot/status/2108609764766908772
-- https://www.163.com/dy/article/L8S7SDMS0511B8LM.html
-- https://linux.do/t/topic/3001934
-- https://linux.do/t/topic/3002150
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/petergyang/status/2108412799684915576
-- https://x.com/op7418/status/2108545983647023493
-- https://x.com/KinGao476942/status/2100073265716928662
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/Hensen1016/status/2108025562048483583
-- https://x.com/bot/status/2103936247995752705
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://x.ai/news/introducing-grok-bot
-- https://x.com/B_doong2daddy/status/2105711764641833238
-- https://x.com/bot/status/2100335532597502311
-- https://x.ai/news/grok-bot-for-enterprise
-- https://learngrokbot.com/plugins
-- https://x.com/i/status/2107339523038331338
-
 
 # §11 中国用户的集成：没有插件也能用 · China Integrations
 
@@ -1788,28 +1531,6 @@ Notion 不只用来抓取或生成单篇笔记，官方把它当成长周期的�
 
 在没有原生插件的环境下用 Grok Bot，要守住四条底线：一是绝不让云电脑登录网银、核心财务或高权限管理账号；二是资金支付、发正式邮件、合并代码等敏感操作必须人工二次确认；三是不需要联网的历史数据，清洗脱敏后再以文件交付；四是始终认清云电脑在境外的属性，守住合规底线。
 
-## 本章来源
-
-- 微信接入保姆级指南（Kin on X）：https://xput.app/N4rlhi
-- Kin 微信接入推文（链接帖，正文未抓到）：https://x.com/i/status/2108132811635032316
-- Kin 微信接入互动贴：https://x.com/KinGao476942/status/2108171436213104836
-- 二楼后座 Grok Bot 微信接入完整教程：https://ele.ac.cn/2171/
-- 腾讯 OpenClaw 微信插件代码仓：https://github.com/Tencent/openclaw-weixin
-- 第三方 Grok 微信插件代码仓：https://github.com/little-thing/grok-wechat-plugin
-- 超级峰粉皮书微信实践课程：https://chaojifeng.me/free-courses/grok/learn/wechat-02
-- 翔宇工作流：Grok Bot 能干什么与九类真实场景：https://xiangyugongzuoliu.com/grokbot-use-cases/
-- 微信公众平台官方后台：https://mp.weixin.qq.com/
-- 邮件转发给 agent mail 的实践（maiff20）：https://x.com/i/status/2106774095820095969
-- Grok Bot 邮箱认领与设置（lujunneng）：https://x.com/i/status/2109320438807670985
-- 视频下载与知识库保存（KinGao）：https://x.com/KinGao476942/status/2100073265716928662
-- 微信公众号 RSS 类监控用法（canghe）：https://x.com/i/status/2106976608783577471
-- 公众号文章抓取实操（MrRenran）：https://x.com/i/status/2106964584276037798
-- Grok Bot 本地出口路由解析（xiaohu）：https://x.com/i/status/2099409639234289914
-- AI345 Grok Bot 国内使用教程与合规说明：https://www.ai345.info/ai-guide/grok-bot-china-guide
-- Grok Bot 官方文档：Computer and Apps：https://docs.x.ai/grok-bot/computer-and-apps
-- Grok Bot 官方文档：Use Cases：https://docs.x.ai/grok-bot/use-cases
-
-
 # §12 群聊与交接 · Groups & Handoffs
 
 ## 12.1 建群 · Groups
@@ -1932,26 +1653,6 @@ Save this as a routine.
 
 > [!TIP]
 > 🧪 【实测·TODO待实测】测试每晚定时触发语音备忘在桌面端与移动端的音频合成完整度与转录一致性。
-
-## 本章来源
-
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://docs.x.ai/grok-bot/team-bots.md
-- https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- https://x.ai/news/designing-grok-bot
-- https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://www.youtube.com/watch?v=8jkkCniMgBw
-- https://www.youtube.com/watch?v=QBmgF1kJSK4
-- https://x.com/0xRafy/status/2099278275906265417
-- https://x.com/0xRafy/status/2099986062806298991
-- https://x.com/AlexFinn/status/2108319537116725426
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/i/status/2101851806330712339
-- https://x.com/i/status/2107339523038331338
-- https://x.com/kocer_eth/status/2101669438038634827
-
 
 # §13 编制案例库 · Team Blueprints
 
@@ -2099,29 +1800,6 @@ FlyLo 的业务逻辑设立了严格的策略分流：在规定政策窗口内�
 > 🧪 【实测·TODO待实测】：在沙箱环境中复现三档权限下的供应商席位闲置审计与还价邮件草稿生成。
 
 从这四个典型编制中可以看出，无论是自媒体内容组、代码研发组、一人业务线还是官方采购客服组，多 Bot 能够跑通的核心绝不是让模型自由发挥。关键是建立明确的触发条件、落实防空转的事件驱动架构、坚守草稿优先与权限分级，并设立随时可以由人类接管的断路器机制。
-
-## 本章来源
-
-- 迷城：Grok Bot一周实测：AI Agent正在从"工具"变成"员工"，掘金，https://juejin.cn/post/7682695577956483091
-- 七七行銷筆記：用Grok Bot從零組出五人AI團隊並串接X帳號發布，YTGet / YouTube，https://ytget.cc/entry/grok-bot-five-ai-team-x-account ，原片 https://www.youtube.com/watch?v=Z3ghSHtu8dk
-- 觉醒AI：Grok Bot 小红书运营团队搭建工作流，https://www.jxxy.net/ai/articles/grok-bot-xiaohongshu-team-workflow/
-- 觉醒AI：AdrianPunk115 媒体团队五岗提示词解析，https://www.jxxy.net/ai/articles/AdrianPunk115-2097311704547987756/
-- 觉醒AI：Grok Bot 工作流训练实录，https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- 象鱼工作流：Grok Bot 实战用例与国内平台边界，https://xiangyugongzuoliu.com/grokbot-use-cases/
-- diudiuu：分享浅浅尝试用 Grok Bot 创建数字员工自动开发流程，V2EX，https://www.v2ex.com/t/1241365
-- diudiuu：TPS 开源模型数据自动化 PR 记录，GitHub，https://github.com/adiudiuu/tps/pulls?q=is%3Apr+state%3Aclosed
-- Eric Zakariasson：How I run multiple teams of Grok Bots，官方指南，https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- xAI：Designing Grok Bot，官方设计解析，https://x.ai/news/designing-grok-bot
-- xAI：Grok Bot for Procurement（Haggle Bot 采购案例），官方新闻，https://x.ai/news/grok-bot-procurement
-- xAI：Grok Bot for Customer Support（客服案例），官方新闻，https://x.ai/news/grok-bot-customer-support
-- Lingxi Li：Grok Bot Galaxy 开发者工程场，YouTube，https://youtu.be/zCqmTSF2ctg
-- David Gan：Grok Bot Galaxy 客服支持场，YouTube，https://youtu.be/BSB--jUnx9U
-- Roman Ugarte 访谈（Lenny's Podcast），YouTube，https://www.youtube.com/watch?v=maSdsTLaMuU
-- Claire Vo 专访（How I AI），YouTube，https://www.youtube.com/watch?v=QBmgF1kJSK4
-- Milo 业务线运营案例，X 原帖，https://x.com/i/status/2109152147325796381
-- @fleyta88：Routine 成本审计与执行优化，X 原帖，https://x.com/fleyta88/status/2109346840382415019
-- Cursor 价格与套餐详情，官方说明，https://cursor.com/pricing
-
 
 # §14 个人与生活 · Personal & Daily Life
 
@@ -2339,44 +2017,6 @@ Standing boundaries:
 
 第二个坑是电商网站的反爬与风控封号。主流电商平台对机房 IP 的识别非常严格，Bot 频繁在云电脑中打开商品页极易触发滑动验证码或人机校验。遇到风控时，强行让 Bot 自动化重试很容易导致电商账号被封禁，此时必须配合本地出口路由将流量转回个人本机 IP【社区】（https://x.com/xiaohu/status/2099409639234289914 ）。第三个坑是限时特价与审批超时冲突。官方后台审批卡大约 10 分钟自动过期（Expired）【官方】（https://docs.x.ai/grok-bot/approvals-security-and-privacy.md ）。如果遇到库存极少的闪购特价，一旦没能在 10 分钟内点击 Allow once，卡片就会失效并取消操作。高时效性的秒杀抢购并不适合离线 Routine，必须在人守在屏幕前时以人机协同的方式半自动完成。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://cursor.com/pricing
-- https://cursor.com/help/grok-bot/plans
-- https://x.ai/news/grok-bot-procurement
-- https://x.com/bot/status/2108609764766908772
-- https://x.com/bot/status/2097759948189106686
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/elonmusk/status/2100698004210475317
-- https://x.com/bot/status/2100659463569170779
-- https://x.com/poteto/status/2107830403549831186
-- https://x.com/mattyp/status/2102759899314741736
-- https://x.com/mattyp/status/2107886668892057614
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://x.com/liam_fallen/status/2109332219126784098
-- https://x.com/petergyang/status/2103693608729932025
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/aizhibeibei/status/2108352015319613501
-- https://x.com/maiff20/status/2106774095820095969
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/xiaohu/status/2099409639234289914
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/RichSilver/status/2108053489620504822
-- https://x.com/i/status/2109347617398264294
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://x.com/lens2645211/status/2108184037198266383
-
-
 # §15 内容创作 · Creators
 
 很多人把 Grok Bot 当成另一个网页聊天窗口，每次想发内容就打开它问一句帮我写条推文。这种用法把它的后台例程和云电脑完全浪费了。我调研发现，做内容创作时，Grok Bot 真正的分水岭不是文笔，而是你从亲自干活的作者变成了调度流水线的**责任主编**。
@@ -2563,40 +2203,6 @@ Routine 批量调用 SVG 模板引擎生成当周的图卡包，在对应文件�
 ![小红书知识图卡的分层架构：底层代码绘制、中层文字排版与顶层人工审核发布](../images/fig-15-5.png)
 
 *图：小红书知识图卡的分层架构：底层代码绘制、中层文字排版与顶层人工审核发布*
-
-## 本章来源
-
-- https://x.com/bot/status/2107949161878606089
-- https://x.com/bot/status/2093822274067706170
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://cursor.com/help/grok-bot/routines
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/help/grok-bot/models
-- https://cursor.com/docs/grok-bot/work
-- https://cursor.com/help/grok-bot/computer-recovery
-- https://x.ai/changelog/bot
-- https://www.jxxy.net/ai/articles/AdrianPunk115-2097311704547987756/
-- https://x.com/AdrianPunk115/status/2097311704547987756
-- https://www.jxxy.net/ai/articles/grok-bot-xiaohongshu-team-workflow/
-- https://x.com/yvchengshanren/status/2091566195317309890
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://x.com/i/status/2106976608783577471
-- https://chunduai.com/tutorials/grok-bot-code-video
-- https://x.com/leo_xiaolei/status/2108159484401262882
-- https://gist.github.com/threerocks/5f6f6d5b3801a400bb5343379082580c
-- https://github.com/alchaincyf/huashu-art-motion
-- https://github.com/tomatoparkdao/omniailab-ai-director
-- https://chunduai.com/tutorials/grok-bot-motion-studio
-- https://x.com/0xCarnagee/status/2108501747643670780
-- https://immilesma.com/blog/grok-bot-practical-guide/
-- https://x.com/miles_mazy/status/2098708209095819605
-- https://x.com/0xlangeai/status/2090743461574250762
-- https://x.com/KinGao476942/status/2100224440948916593
-
 
 # §16 赚钱与工作 · Work & Business
 
@@ -2840,30 +2446,6 @@ Routine 可以挂接在财务账单审批流上，每月巡检一次续约项目
 
 > [!TIP]
 > 🧪 【实测·TODO待实测】测试房产预约表单在遭遇时间冲突时自动计算备选带看时段的准确率。
-
-## 本章来源
-
-- Cursor 定价与套餐说明：https://cursor.com/pricing
-- Grok Bot 方案与使用限制说明：https://cursor.com/help/grok-bot/plans
-- Grok Bot 官方安全白皮书：https://cursor.com/docs/grok-bot/security
-- Grok Bot 官方岗位实战指南总览：https://x.ai/bot/guides
-- 销售岗位指南与市场 Bot 列表：https://x.ai/bot/guides/sales
-- 招聘岗位指南与市场 Bot 列表：https://x.ai/bot/guides/recruiting
-- 法务岗位指南与市场 Bot 列表：https://x.ai/bot/guides/legal
-- 客户支持岗位指南与市场 Bot 列表：https://x.ai/bot/guides/support
-- 市场营销岗位指南与市场 Bot 列表：https://x.ai/bot/guides/marketing
-- Grok Bot 企业版发布官方公告：https://x.ai/news/grok-bot-for-enterprise
-- Grok Bot 团队功能 Team Bots 发布公告：https://x.ai/news/team-bots
-- Grok Bot 采购案例分析（Haggle Bot）：https://x.ai/news/grok-bot-procurement
-- Grok Bot 客户支持团队实践案例：https://x.ai/news/grok-bot-customer-support
-- Grok Bot 更多套餐支持官方公告：https://x.ai/news/grok-bot-more-plans
-- 官方 @bot 账号 Shopify 集成发布推文：https://x.com/bot/status/2108228871938359347
-- @0xEcho99 出海找新词建站实战推文：https://x.com/0xEcho99/status/2108927962305511520
-- @Hensen1016 跨境电商竞品巡检与痛点分析推文：https://x.com/Hensen1016/status/2108025562048483583
-- @miniyarov Cursor Pro 额度消耗反馈推文：https://x.com/miniyarov/status/2105428357273800799
-- @xiaohu 本地出口路由解析推文：https://x.com/xiaohu/status/2099409639234289914
-- Cybernews 关于 Grok Bot 银行数据泄露事件报道：https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-
 
 # §17 从零搭一个“中文内容工作室” · Capstone A: Building a Chinese Content Studio
 
@@ -3180,33 +2762,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 > [!TIP]
 > 🧪 【实测·TODO待实测】待实测在 Settings 页面核对一周用量百分比并执行 Routine 审计指令。
 
-## 本章来源
-
-- https://x.ai/news/designing-grok-bot
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- https://docs.x.ai/grok-bot/computer-and-apps.md
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/pricing
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://x.com/poteto/status/2108097362283597916
-- https://juejin.cn/post/7682695577956483091
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/rowancheung/status/2108328114552000842
-- https://chaojifeng.me/free-courses/grok/learn/wechat-02
-- https://ele.ac.cn/2171/
-- https://x.com/KinGao476942/status/2108171436213104836
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/hejushang8/status/2103760664217174494
-- https://x.com/i/status/2109516426767654962
-
-
 # §18 研发场景：Bot + Cursor 云端 Agent + GitHub · Capstone B
 
 > **适合谁**：有代码仓库、会用 GitHub 的开发者或技术负责人。**前提条件**：Cursor 账户可用云端 Agent（Cloud Agents）、GitHub 仓库已连接；Notion 看板和 Private Worker 是可选项。不写代码的读者可以跳过本章，或者只看 18.7 的"人工终审"原则。
@@ -3357,29 +2912,6 @@ You have six hours tonight. Clean up dead logic, optimize bundle size, and impro
 > [!NOTE]
 > 📸 **截图位（待补）**：Dashboard/usage 界面展示的周额度与 Cursor Cloud Agent 消耗曲线
 
-## 本章来源
-
-- https://x.ai/bot/guides/grok-bot-for-engineering
-- https://x.ai/bot/guides/engineering
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/changelog/bot
-- https://cursor.com/pricing
-- https://cursor.com/help/grok-bot/plans
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.com/i/status/2101944767412129920
-- https://x.com/i/status/2103438409553604976
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2109265867859177552
-- https://x.com/i/status/2109300337203183940
-- https://x.com/i/status/2108990316644847920
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/fleyta88/status/2109346840382415019
-- https://penchan.co/ai/grok/grok-bot/
-
-
 # §19 额度去哪了 · Where Usage Goes
 
 > **适合谁**：所有用户，尤其是刚收到"额度用尽"提示、或者担心被意外扣费的新手。本章不需要任何技术背景。
@@ -3453,40 +2985,6 @@ From now on, only message another Bot when it needs to act. No acknowledgments, 
 > 📸 **截图位（待补）**：Settings > Usage & Billing 面板中的周用量百分比与重置倒计时
 > [!NOTE]
 > 📸 **截图位（待补）**：cursor.com/dashboard/usage 面板中的后台模型调用记录
-
-## 本章来源
-
-- Cursor 帮助中心：Grok Bot 套餐与计费官方说明 https://cursor.com/help/grok-bot/plans
-- Cursor 价格页面官方配置 https://cursor.com/pricing
-- Cursor 用户控制台账单与消费设置 https://cursor.com/dashboard
-- Cursor 控制台用量与模型路由记录 https://cursor.com/dashboard/usage
-- Ofox：Grok Bot 额度周用量与按需消费机制说明 https://ofox.ai/zh/blog/grok-bot-weekly-usage-on-demand-limit/
-- LearnGrokBot：Grok Bot 用量限制与双计量器解析 https://learngrokbot.com/usage-limits
-- LearnGrokBot：额度快速耗尽原因与排查方案 https://learngrokbot.com/usage-running-out
-- GrokBotWiki：周额度限制与按需控制实战指南 https://www.grokbotwiki.com/guides/grok-bot-weekly-usage-limit
-- SpaceXAI 官方文档：技能、Routine 与自动化规范 https://docs.x.ai/grok-bot/skills-routines-and-automations
-- SpaceXAI 官方文档：设置与通知说明 https://docs.x.ai/grok-bot/settings-and-notifications
-- SpaceXAI 官方文档：故障排查指引 https://docs.x.ai/grok-bot/troubleshooting
-- SpaceXAI 官方更新日志：Bot 更新历史 https://x.ai/changelog/bot
-- Cursor 官方论坛：关于 1500 美元周账单的员工回复与长会话 Token 机制披露 https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- Cursor 官方论坛：员工就 Grok Bot 独立周额度池与溢出机制的修正回复 https://forum.cursor.com/t/grok-bot-spend-cursor-usage-i-cant-accept-it/169796
-- Cursor 官方论坛：员工确认 Credits 赠金在按需扣费前优先消耗 https://forum.cursor.com/t/grok-bot-draining-cursor-credit-pool/169982
-- Cursor 官方论坛：Ultra 用户额度消耗排查与员工优化建议 https://forum.cursor.com/t/grok-bot-ultra-users-how-do-you-make-the-weekly-allowance-last-mine-reached-99-in-three-days/171221
-- Cursor 官方论坛：10 月 8 日全网 Routine 故障与员工确认公告 https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- Cursor 帮助中心：Routine 调度与频率警告 https://cursor.com/help/grok-bot/routines
-- X 平台 @filedfyi 贴出的 90% 与 100% 额度警告横幅截图记录 https://x.com/filedfyi/status/2107109569512014270
-- X 平台官方账号 @bot 说明 Main Bot 自主建议不计入用量 https://x.com/bot/status/2105713241745977618
-- X 平台官方账号 @bot 宣布全员额度重置公告（10 月 3 日 02:05，北京时间） https://x.com/bot/status/2106083136002310193
-- X 平台官方账号 @bot 宣布全员额度重置公告（9 月 6 日 02:24，北京时间） https://x.com/bot/status/2096303514230423629
-- X 平台官方账号 @bot 宣布 8 月 26 日全员额度重置公告 https://x.com/bot/status/2092664183334846840
-- LINUX DO 社区主题 t/2807876：创建 Elon Bot 触发头像更换与生图死循环记录 https://linux.do/t/topic/2807876
-- LINUX DO 社区主题 t/2990677：Grok Bot 路由至 Opus 5.5 与后台查看方法 https://linux.do/t/topic/2990677
-- LINUX DO 社区主题 t/2848179：关于 Cursor Pro 额度折算估算的讨论帖 https://linux.do/t/topic/2848179
-- X 平台 @WildVariable01 分享在云电脑安装 Codex 与封号经验 https://x.com/i/status/2107100457231651312
-- X 平台 @miniyarov 关于每条消息消耗 1% 周额度的推测帖 https://x.com/miniyarov/status/2105428357273800799
-- X 平台 @fleyta88 关于 5 分钟 Routine 触发频率与消耗的讨论帖 https://x.com/fleyta88/status/2109346840382415019
-- didreset.com 额度追踪页面关于官方未公开具体数字的记录 https://didreset.com/limits/grok
-
 
 # §20 省钱心法 · Saving
 
@@ -3609,36 +3107,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 > [!NOTE]
 > 📸 **截图位（待补）**：Cursor Dashboard 中的 Monthly Limit 支出上限设置界面
 
-## 本章来源
-
-- https://readcopilot.ionichina.com/articles/53772
-- https://x.com/cgnot996/status/2108504325609984233
-- https://x.com/AYi_AInotes/status/2108577755621171216
-- https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- https://forum.cursor.com/t/grok-bot-context-window-size-and-token-accumulation-logic-in-pro/171540
-- https://carlstack.gravito.dev/blog/grok-bot-budget-wake-delegation-guardrails/
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/cn/help/grok-bot/plans
-- https://cursor.com/help/grok-bot/routines
-- https://cursor.com/help/grok-bot/models
-- https://cursor.com/docs/grok-bot/teams
-- https://cursor.com/pricing
-- https://x.com/i/status/2108414543978533341
-- https://x.com/i/status/2109088800903483616
-- https://x.com/i/status/2107100457231651312
-- https://x.com/i/status/2109157438226403420
-- https://x.com/i/status/2108424478967668740
-- https://x.com/miniyarov/status/2105428357273800799
-- https://openrouter.ai/docs/api_reference/limits
-- https://openrouter.ai/docs/guides/routing/model-variants/free
-- https://modelscope.cn/docs/model-service/API-Inference/limits
-- https://github.com/RongleCat/tiezhu-modelscope-api-inference
-- https://didreset.com/limits/grok
-- https://penchan.co/ai/grok/grok-bot/
-- https://x.ai/changelog/bot
-- https://www.amz123.com/t/lZiL8LFi
-
-
 # §21 事故档案 · Incident Files
 
 很多人刚上手 Grok Bot，容易把它当成全能员工，银行账户、公司通讯录和社交账号统统交出去。直到银行流水被公开打在公司全员群里，或者辛辛苦苦调了一周的配置一夜之间被系统回滚抹平，才发现底层安全边界和稳定性有多脆弱。这一章我不讲虚的，直接拆过去两个月里社区和企业真实踩过的七起严重事故：Shane Mac 的财务泄露、9/8 云电脑回滚、社交账号封禁、群聊泄密、多 Bot 并发冲突、节点失联，以及 10/8 的调度瘫痪。每一起事故，我都按发生经过、底层原因以及怎么防范三步写透。
@@ -3724,31 +3192,6 @@ Cursor 团队员工 @deanrie 和 @kevinn 在论坛给出了原因说明【官方
 
 > [!NOTE]
 > 📸 **截图位（待补）**：Routine 全部失败且运行记录显示 Failed 的排查界面
-
-## 本章来源
-
-- https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://runtimewire.com/article/xmtp-shane-mac-grok-bot-bank-audit-slack
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy
-- https://cursor.com/docs/grok-bot/security
-- https://x.com/bot/status/2103936247995752705
-- https://forum.cursor.com/t/grok-bot-conversation-history-and-newly-created-bots-groups-suddenly-rolled-back-and-synchronized-across-all-devices/171008
-- https://cursor.com/help/grok-bot/computer-recovery.md
-- https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- https://www.whatsapp.com/legal/third-party-agents-terms
-- https://learngrokbot.com/plugins
-- https://x.com/i/status/2107339523038331338
-- https://docs.x.ai/grok-bot/chat-and-collaboration
-- https://x.ai/news/team-bots
-- https://x.com/i/status/2100351900881207770
-- https://docs.x.ai/grok-bot/computer-and-apps
-- https://linux.do/t/topic/2860519
-- https://status.cursor.com
-- https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-- https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138
-- https://forum.cursor.com/t/grok-bot-failed-to-respond-on-every-bot-after-reset-recover-computer/173919
-
 
 # §22 常见故障速查 · Troubleshooting
 
@@ -3843,20 +3286,6 @@ Cursor 官方工程师 @kevinn 于 10 月 9 日 07:36 CST 公布了排查结论�
 自动化与消息交互环节：Routine 停摆需逐项核查排程时区、Bot 存续状态、插件认证与 50 分钟超时（社区报告），手动验证仅能使用安全输入跑 Test run【官方】（https://docs.x.ai/grok-bot/troubleshooting.md, https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138 ）；邮件与消息未发出优先排查 Auto-review 的 Ask first 规则及卡片状态，附件严格控制在 25 MB（视频 200 MB）和 6 个文件上限内；界面锁死可随时发送 **Stop now** 终止当前阻塞动作【官方】（https://docs.x.ai/grok-bot/troubleshooting.md ）。
 
 如果按照阶梯排查依然无法解决，联系官方技术支持（https://cursor.com/help/grok-bot/get-help.md ）前，提前收集完整信息：Grok Bot 版本号、操作系统与版本、精确报错文本、涉及的 Bot 或 Routine 名称、故障发生的具体时间与时区、界面显示的完整 Request ID 或会话 ID，以及重启或更新后的对比结果；工单中绝不能附带明文密码、一次性验证码或私钥信息【官方】（https://docs.x.ai/grok-bot/troubleshooting.md ）。
-
-## 本章来源
-
-- https://docs.x.ai/grok-bot/troubleshooting.md
-- https://cursor.com/help/grok-bot/computer-recovery.md
-- https://cursor.com/help/grok-bot/get-help.md
-- https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843
-- https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138
-- https://www.v2ex.com/t/1247756
-- https://x.com/liuxu_qingdao/status/2108527380570816747
-- https://www.v2ex.com/t/1241829
-- https://www.v2ex.com/t/1241225
-- https://x.ai/changelog/bot
-
 
 # §23 别这么用 · Anti-Patterns
 
@@ -3958,28 +3387,6 @@ Grok Bot 热度起来之后，中文互联网上迅速滋生出大量的灰色�
 > [!NOTE]
 > 📸 **截图位（待补）**：社区中典型的交出会话凭证代充教程与诈骗信息示例
 
-### 本章来源
-
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/fleyta88/status/2109346840382415019
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- https://linux.do/t/topic/2807876
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2100351900881207770
-- https://ytget.cc/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- https://www.whatsapp.com/legal/third-party-agents-terms
-- https://x.com/KinGao476942/status/2108171436213104836
-- https://ele.ac.cn/2171/
-- https://claudemax.shop/blog/grok-bot-guide-supergrok
-- https://linux.do/t/topic/2848179
-- https://x.com/KinGao476942
-- https://x.com/onlyforapp/status/2105878555015950421
-- https://x.com/i/status/2102291280965640690
-
-
 # §24 从 "聊天" 到 "管理" · Managing, Not Chatting
 
 > **适合谁**：已经用过几次 Bot、想让它长期稳定干活的读者。本章讲心态和方法，不涉及具体操作；24.5 是作者个人判断，以【推测】为主。
@@ -4061,48 +3468,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 【推测】多模型分工协同会彻底取代单模型全包。社区开发者已经在实践中搭建出多模型协作栈：Grok Bot 担任架构师调度日常，调 Cursor 云端 Agent 和 Opus 5.5 攻坚核心代码，用轻量快模型执行测试巡检【社区】（来源：https://x.com/i/status/2109300337203183940 与 https://x.com/i/status/2108990316644847920 ）。【推测】未来的 Bot 不会局限在单一基础模型上，而是作为通用编排中枢，按需动态调度不同算力。
 
 【推测】完全无人干预的自主智能体在严肃商业场景中无法立足。《华尔街日报》关于智能体跑偏出错的报道（未读全文）【社区】（来源：https://www.wsj.com/tech/ai/ai-agents-assistants-shopping-chat-errors-a316d3f9 ），以及官方审批卡约 10 分钟自动过期的设计【官方】（来源：https://docs.x.ai/grok-bot/approvals-security-and-privacy.md ），证明了安全防线必须由人工把守。【推测】“草稿优先”与“权限三档”在未来数年依然是企业级部署的底层基石。**未来真正拉开差距的，不是向 AI 提问的辞藻，而是把复杂业务拆解为自动化工序的组织管理能力**。
-
-## 本章来源
-
-- https://x.ai/bot
-- https://x.ai/news/introducing-grok-bot
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/news/grok-bot-procurement
-- https://x.ai/news/grok-bot-customer-support
-- https://x.ai/news/team-bots
-- https://x.ai/news
-- https://docs.x.ai
-- https://www.wsj.com/tech/ai/ai-agents-assistants-shopping-chat-errors-a316d3f9
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=8xXhE25vJZY
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/cyrilXBT/status/2100094833671254070
-- https://x.com/B_doong2daddy/status/2100573792569303402
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/AlexFinn/status/2108319537116725426
-- https://x.com/sidejob_AJ/status/2108592848300056956
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/poteto/status/2107830403549831186
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/i/status/2106883332432945519
-- https://x.com/i/status/2105404819745718679
-- https://x.com/i/status/2104229085509788008
-- https://x.com/i/status/2108586705695449318
-- https://x.com/i/status/2109516426767654962
-- https://x.com/i/status/2101851806330712339
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2100351900881207770
-- https://x.com/i/status/2109152147325796381
-- https://x.com/i/status/2109300337203183940
-- https://x.com/i/status/2108990316644847920
-
 
 # 附录 A–E · 速查、价格、模板、连接器、更新日志
 
@@ -4601,64 +3966,6 @@ Grok Bot 迭代很快。官方更新日志（https://x.ai/changelog/bot）每个
 | v0.18.0 | Usage & Billing 页面新增 Cancel Trial 提前取消试用按钮（取消将清空剩余试用额度） | 全员 | [x.ai: Changelog](https://x.ai/changelog/bot) 【官方】 |
 | v0.17.0 | 自助团队版 Standard 成员支持通过关联个人 SuperGrok Heavy 订阅使用 Grok Bot；丰富 Routine 触发器 | Teams | [x.ai: Changelog](https://x.ai/changelog/bot) 【官方】 |
 
-## 本章来源
-
-- 官方文档与发布公告：
-  - https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-  - https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-  - https://docs.x.ai/grok-bot/files-and-results.md
-  - https://docs.x.ai/grok-bot/chat-and-collaboration.md
-  - https://docs.x.ai/grok-bot/computer-and-apps.md
-  - https://docs.x.ai/grok-bot/get-started.md
-  - https://docs.x.ai/grok-bot/bots.md
-  - https://docs.x.ai/grok-bot/settings-and-notifications.md
-  - https://docs.x.ai/grok-bot/identity-and-access.md
-  - https://docs.x.ai/grok-bot/troubleshooting.md
-  - https://x.ai/news/designing-grok-bot
-  - https://x.ai/news/grok-bot-procurement
-  - https://x.ai/news/grok-bot-customer-support
-  - https://x.ai/news/introducing-grok-bot
-  - https://x.ai/news/grok-bot-more-plans
-  - https://x.ai/news/grok-bot-for-enterprise
-  - https://x.ai/news/grok-bot-and-x
-  - https://x.ai/changelog/bot
-- Cursor 官方价格与帮助中心：
-  - https://cursor.com/pricing
-  - https://cursor.com/cn/help/grok-bot/plans
-  - https://cursor.com/help/grok-bot/connect-plugins
-  - https://cursor.com/help/grok-bot/supergrok
-  - https://cursor.com/privacy
-  - https://cursor.com/security
-- 官方团队访谈与论坛：
-  - https://www.youtube.com/watch?v=xZ5TEaleUdg （Lauren Tan & Peng Zheng 访谈）
-  - https://www.youtube.com/watch?v=8xXhE25vJZY （官方 101 直播演示）
-  - https://www.youtube.com/watch?v=maSdsTLaMuU （Roman Ugarte 访谈）
-  - https://forum.cursor.com/t/grokbot-custom-connectors/169965 （Cursor 员工论坛回复）
-- 第三方测评与社区研究：
-  - https://learngrokbot.com/plugins
-  - https://penchan.co/ai/grok/grok-bot/
-  - https://x.com/Michael_Fenech_/status/2106352565528977469
-  - https://x.com/Michael_Fenech_/status/2106729045878514147
-  - https://x.com/kocer_eth/status/2105008655770788250
-  - https://x.com/kocer_eth/status/2101669438038634827
-  - https://x.com/rowancheung/status/2108328114552000842
-  - https://x.com/AlexFinn/status/2108319537116725426
-  - https://x.com/sidejob_AJ/status/2108592848300056956
-  - https://x.com/fleyta88/status/2109346840382415019
-  - https://x.com/MilMileBattery/status/2107033338548797471
-  - https://x.com/poteto/status/2107830403549831186
-  - https://x.com/petergyang/status/2108624122339287335
-  - https://x.com/monokern/status/2108533543848558780
-  - https://x.com/i/status/2109265867859177552
-  - https://x.com/i/status/2107629480374308893
-  - https://x.com/i/status/2109290036978196689
-  - https://www.jxxy.net/ai/articles/grok-bot-xiaohongshu-team-workflow/
-  - https://www.jxxy.net/ai/articles/AdrianPunk115-2097311704547987756/
-  - https://xiangyugongzuoliu.com/grokbot-use-cases/
-  - https://www.reddit.com/r/GrokBot/comments/1w11r70/
-  - https://www.reddit.com/r/GrokBot/comments/1wp291u/
-
-
 # 附录 F–J · FAQ、术语、竞品、资源、来源总表与勘误
 
 ## 附录 F FAQ（中文高频 20 问） · Frequently Asked Questions
@@ -4826,101 +4133,6 @@ OpenAI 的 Dots 架构基于 GPT-6 Astra，必须每月至少 100 美元的 Chat
 
 ### K.3 反馈通道与持续更新机制 · Feedback & Maintenance
 AI 智能体和官方策略更新极快，本书按发布日期标注版次（当前为 v261012）。要是你在实操里发现界面变了、链接挂了或者参数不对，直接去代码仓库的 **GitHub Issues** 提反馈。我每周会对照官方更新日志和社区一手实测复查，把每一次事实修正更新到这页勘误里。
-
-## 本章来源
-
-- https://docs.x.ai/grok-bot
-- https://docs.x.ai/grok-bot/computer-and-apps
-- https://docs.x.ai/grok-bot/skills-routines-and-automations
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy
-- https://docs.x.ai/grok-bot/chat-and-collaboration
-- https://docs.x.ai/grok-bot/troubleshooting
-- https://x.ai/bot/marketplace
-- https://docs.x.ai/grok-bot/identity-and-access
-- https://docs.x.ai/grok-bot/settings-and-notifications
-- https://docs.x.ai/grok-bot/mobile
-- https://docs.x.ai/grok-bot/get-started
-- https://docs.x.ai/grok-bot/bots
-- https://docs.x.ai/grok-bot/files-and-results
-- https://docs.x.ai/grok-bot/proxies
-- https://docs.x.ai/grok-bot/private-networks
-- https://docs.x.ai/grok-bot/use-cases
-- https://x.ai/bot
-- https://x.ai/bot/guides
-- https://x.ai/bot/guides/templates-for-grok-bot
-- https://x.ai/bot/guides/grok-bot-for-engineering
-- https://x.ai/news
-- https://x.ai/news/introducing-grok-bot
-- https://x.ai/news/grok-bot-more-plans
-- https://x.ai/news/designing-grok-bot
-- https://x.ai/news/team-bots
-- https://x.ai/news/grok-plugin-marketplace
-- https://x.ai/news/grok-bot-and-x
-- https://x.ai/news/grok-bot-for-enterprise
-- https://cursor.com/pricing
-- https://cursor.com/cn/help/grok-bot/plans
-- https://cursor.com/cn/docs/grok-bot
-- https://cursor.com/docs/grok-bot/work
-- https://cursor.com/dashboard/usage
-- https://x.com/bot
-- https://x.com/bot/status/2107949161878606089
-- https://x.com/bot/status/2108609764766908772
-- https://x.com/bot/status/2103936247995752705
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/bot/status/2105373767568621895
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.com/elonmusk/status/2109155867983786382
-- https://x.com/poteto/status/2107734770990133319
-- https://x.com/poteto/status/2107830403549831186
-- https://x.com/i/status/2109157438226403420
-- https://x.com/i/status/2108488671699816806
-- https://x.com/i/status/2108748981069394279
-- https://x.com/i/status/2102291280965640690
-- https://x.com/i/status/2107100457231651312
-- https://x.com/i/status/2109088800903483616
-- https://x.com/i/status/2105442725919367611
-- https://x.com/KinGao476942/status/2108171436213104836
-- https://x.com/KinGao476942/status/2100224440948916593
-- https://x.com/0xRafy/status/2099278275906265417
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/fkysly/status/2108831626360930389
-- https://x.com/0xEcho99
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/joshkim/status/2100996896575861157
-- https://www.v2ex.com/t/1247756
-- https://www.v2ex.com/t/1241829
-- https://www.v2ex.com/t/1240012
-- https://www.v2ex.com/t/1235049
-- https://www.v2ex.com/t/1241225
-- https://www.v2ex.com/t/1241365
-- https://linux.do
-- https://linux.do/t/topic/2743888
-- https://linux.do/t/topic/2807876
-- https://linux.do/t/topic/2848179
-- https://www.ai345.info/ai-guide/grok-bot-china-guide
-- https://www.amz123.com/t/lZiL8LFi
-- https://xput.app/N4rlhi
-- https://ele.ac.cn/2171/
-- https://readcopilot.ionichina.com/articles/53772
-- https://www.aitoolku.cn/tutorials/grok-feishu
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://claudemax.shop/blog/grok-bot-guide-supergrok
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://www.livemint.com/ai/elon-musk-s-grok-bot-hits-418-000-weekly-users-after-one-month-11790093107144.html
-- https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/
-- https://openassistant.us/blog/muse-vs-grok-bot
-- https://www.aiformortals.co/blog/grok-bot-vs-meta-muse-vs-chatgpt-dots
-- https://github.com/KinGao294/grok-bot-orange-book
-- https://chaojifeng.me/downloads/grok-bot-course.md
-- https://ai.lzw.me
-- https://github.com/alchaincyf/claude-code-orange-book
-- https://luma.com/kss59f4e
-- https://juejin.cn
-- https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138
-- https://forum.cursor.com/t/all-grok-bot-routines-failed-to-run/174125
-
 
 # 联系作者 / 加入交流群
 

@@ -196,17 +196,6 @@ Stop now
 4. 约束条件：如果所有输入文章均不符合上述筛选标准，直接回复一行文字说明“未发现符合标准的有效案例”，不要强行凑数。
 ```
 
-## 本章来源 · Sources
-
-- 官方快速上手文档：https://docs.x.ai/grok-bot/get-started.md
-- 官方消息与协作文档：https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- 官方设计理念与架构解析：https://x.ai/news/designing-grok-bot
-- 官方采购场景与 Haggle Bot 系统架构：https://x.ai/news/grok-bot-procurement
-- Lauren（@poteto）新手 App 连接建议推文：https://x.com/poteto/status/2107830403549831186
-- Kin《Grok Bot 橙皮书》本地及开源副本：https://github.com/KinGao294/grok-bot-orange-book
-- Sorla YouTube 频道 Gmail 自动化助理实测：https://www.youtube.com/watch?v=qL8alDehpBs
-- Rowan Cheung 关于 X 监控工作流与过滤规则的分享：https://x.com/rowancheung/status/2108328114552000842
-
 ---
 
 [← 上一章：§03 十分钟安装与开箱 · Install in 10 Minutes](../part1-getting-started/03-install.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§05 Bot：给每个同事一份岗位说明书 · Bots & Profiles →](../part2-core-concepts/05-bots.md)

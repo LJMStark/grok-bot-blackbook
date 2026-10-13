@@ -102,27 +102,6 @@ Grok Bot 热度起来之后，中文互联网上迅速滋生出大量的灰色�
 > [!NOTE]
 > 📸 **截图位（待补）**：社区中典型的交出会话凭证代充教程与诈骗信息示例
 
-### 本章来源
-
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/fleyta88/status/2109346840382415019
-- https://www.youtube.com/watch?v=LM7Ft7g8qJw
-- https://linux.do/t/topic/2807876
-- https://x.com/i/status/2107339523038331338
-- https://x.com/i/status/2100351900881207770
-- https://ytget.cc/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.reddit.com/r/GrokBot/comments/1w11r70/
-- https://www.whatsapp.com/legal/third-party-agents-terms
-- https://x.com/KinGao476942/status/2108171436213104836
-- https://ele.ac.cn/2171/
-- https://claudemax.shop/blog/grok-bot-guide-supergrok
-- https://linux.do/t/topic/2848179
-- https://x.com/KinGao476942
-- https://x.com/onlyforapp/status/2105878555015950421
-- https://x.com/i/status/2102291280965640690
-
 ---
 
 [← 上一章：§22 常见故障速查 · Troubleshooting](../part8-pitfalls/22-troubleshooting.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§24 从 "聊天" 到 "管理" · Managing, Not Chatting →](../part9-mental-models/24-mental-models.md)

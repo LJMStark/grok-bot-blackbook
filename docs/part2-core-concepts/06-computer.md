@@ -115,25 +115,6 @@ NodeSeek 和 LINUX DO 上有社区帖称（个例，配置可能随时调整）�
 4. 任务执行完成后，清理临时目录中的无用缓存，并在回复中列出产出文件的绝对路径。
 ```
 
-### 本章来源
-
-- 官方文档：Files and results，https://docs.x.ai/grok-bot/files-and-results.md
-- 官方文档：Use the computer and apps，https://docs.x.ai/grok-bot/computer-and-apps.md
-- 官方文档：Manage Grok Bot computers，https://docs.x.ai/grok-bot/computers.md
-- 官方帮助：Grok Bot computer recovery，https://cursor.com/help/grok-bot/computer-recovery.md
-- 官方文档：Configure TLS-inspecting proxies，https://docs.x.ai/grok-bot/proxies.md
-- 官方文档：Connect to private networks，https://docs.x.ai/grok-bot/private-networks.md
-- 官方论坛：9/8 Grok Bot 账户历史回滚事故讨论与员工回复，https://forum.cursor.com/t/grok-bot-conversation-history-and-newly-created-bots-groups-suddenly-rolled-back-and-synchronized-across-all-devices/171008
-- LINUX DO：也算是体验上了马斯克的 Grok bot，https://linux.do/t/topic/2781038
-- LINUX DO：惊！Grok Bot竟在我电脑上...，https://linux.do/t/topic/2807876
-- LINUX DO：我的grok bot 链接不上云电脑了，https://linux.do/t/topic/2860519
-- LINUX DO：网页版GPT接入GrokBot的机器，https://linux.do/t/topic/2875793
-- LINUX DO：讲一下这几天用grok bot 的小心得，https://linux.do/t/topic/2906870
-- LINUX DO：老马你来真的啊，grok bot真路由opus5.5了，https://linux.do/t/topic/2990677
-- NodeSeek：Grok Bot 免费 8核16G 机器实测，https://www.nodeseek.com/post-878897-1
-- NodeSeek：Grok发邮件试用，领了后下载Grok Bot，https://www.nodeseek.com/post-906175-1
-- 即刻 App：Grok bot 里边自带的虚拟机玩法，https://m.okjike.com/originalPosts/6a9b0894756bbb6658bf093d
-
 ---
 
 [← 上一章：§05 Bot：给每个同事一份岗位说明书 · Bots & Profiles](../part2-core-concepts/05-bots.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§07 Skill 与 Routine：教一次，让它照着做 · Skills & Routines →](../part2-core-concepts/07-skills-routines.md)

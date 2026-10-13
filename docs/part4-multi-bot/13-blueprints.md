@@ -149,28 +149,6 @@ FlyLo 的业务逻辑设立了严格的策略分流：在规定政策窗口内�
 
 从这四个典型编制中可以看出，无论是自媒体内容组、代码研发组、一人业务线还是官方采购客服组，多 Bot 能够跑通的核心绝不是让模型自由发挥。关键是建立明确的触发条件、落实防空转的事件驱动架构、坚守草稿优先与权限分级，并设立随时可以由人类接管的断路器机制。
 
-## 本章来源
-
-- 迷城：Grok Bot一周实测：AI Agent正在从"工具"变成"员工"，掘金，https://juejin.cn/post/7682695577956483091
-- 七七行銷筆記：用Grok Bot從零組出五人AI團隊並串接X帳號發布，YTGet / YouTube，https://ytget.cc/entry/grok-bot-five-ai-team-x-account ，原片 https://www.youtube.com/watch?v=Z3ghSHtu8dk
-- 觉醒AI：Grok Bot 小红书运营团队搭建工作流，https://www.jxxy.net/ai/articles/grok-bot-xiaohongshu-team-workflow/
-- 觉醒AI：AdrianPunk115 媒体团队五岗提示词解析，https://www.jxxy.net/ai/articles/AdrianPunk115-2097311704547987756/
-- 觉醒AI：Grok Bot 工作流训练实录，https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- 象鱼工作流：Grok Bot 实战用例与国内平台边界，https://xiangyugongzuoliu.com/grokbot-use-cases/
-- diudiuu：分享浅浅尝试用 Grok Bot 创建数字员工自动开发流程，V2EX，https://www.v2ex.com/t/1241365
-- diudiuu：TPS 开源模型数据自动化 PR 记录，GitHub，https://github.com/adiudiuu/tps/pulls?q=is%3Apr+state%3Aclosed
-- Eric Zakariasson：How I run multiple teams of Grok Bots，官方指南，https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- xAI：Designing Grok Bot，官方设计解析，https://x.ai/news/designing-grok-bot
-- xAI：Grok Bot for Procurement（Haggle Bot 采购案例），官方新闻，https://x.ai/news/grok-bot-procurement
-- xAI：Grok Bot for Customer Support（客服案例），官方新闻，https://x.ai/news/grok-bot-customer-support
-- Lingxi Li：Grok Bot Galaxy 开发者工程场，YouTube，https://youtu.be/zCqmTSF2ctg
-- David Gan：Grok Bot Galaxy 客服支持场，YouTube，https://youtu.be/BSB--jUnx9U
-- Roman Ugarte 访谈（Lenny's Podcast），YouTube，https://www.youtube.com/watch?v=maSdsTLaMuU
-- Claire Vo 专访（How I AI），YouTube，https://www.youtube.com/watch?v=QBmgF1kJSK4
-- Milo 业务线运营案例，X 原帖，https://x.com/i/status/2109152147325796381
-- @fleyta88：Routine 成本审计与执行优化，X 原帖，https://x.com/fleyta88/status/2109346840382415019
-- Cursor 价格与套餐详情，官方说明，https://cursor.com/pricing
-
 ---
 
 [← 上一章：§12 群聊与交接 · Groups & Handoffs](../part4-multi-bot/12-groups.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§14 个人与生活 · Personal & Daily Life →](../part5-use-cases/14-personal.md)

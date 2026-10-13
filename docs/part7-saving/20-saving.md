@@ -123,35 +123,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 > [!NOTE]
 > 📸 **截图位（待补）**：Cursor Dashboard 中的 Monthly Limit 支出上限设置界面
 
-## 本章来源
-
-- https://readcopilot.ionichina.com/articles/53772
-- https://x.com/cgnot996/status/2108504325609984233
-- https://x.com/AYi_AInotes/status/2108577755621171216
-- https://forum.cursor.com/t/1-500-in-one-week-running-a-grok-bot-fleet-expected-or-a-bug/172705
-- https://forum.cursor.com/t/grok-bot-context-window-size-and-token-accumulation-logic-in-pro/171540
-- https://carlstack.gravito.dev/blog/grok-bot-budget-wake-delegation-guardrails/
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/cn/help/grok-bot/plans
-- https://cursor.com/help/grok-bot/routines
-- https://cursor.com/help/grok-bot/models
-- https://cursor.com/docs/grok-bot/teams
-- https://cursor.com/pricing
-- https://x.com/i/status/2108414543978533341
-- https://x.com/i/status/2109088800903483616
-- https://x.com/i/status/2107100457231651312
-- https://x.com/i/status/2109157438226403420
-- https://x.com/i/status/2108424478967668740
-- https://x.com/miniyarov/status/2105428357273800799
-- https://openrouter.ai/docs/api_reference/limits
-- https://openrouter.ai/docs/guides/routing/model-variants/free
-- https://modelscope.cn/docs/model-service/API-Inference/limits
-- https://github.com/RongleCat/tiezhu-modelscope-api-inference
-- https://didreset.com/limits/grok
-- https://penchan.co/ai/grok/grok-bot/
-- https://x.ai/changelog/bot
-- https://www.amz123.com/t/lZiL8LFi
-
 ---
 
 [← 上一章：§19 额度去哪了 · Where Usage Goes](../part7-saving/19-usage.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§21 事故档案 · Incident Files →](../part8-pitfalls/21-incidents.md)

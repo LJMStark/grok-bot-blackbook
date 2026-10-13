@@ -96,19 +96,6 @@ Cursor 官方工程师 @kevinn 于 10 月 9 日 07:36 CST 公布了排查结论�
 
 如果按照阶梯排查依然无法解决，联系官方技术支持（https://cursor.com/help/grok-bot/get-help.md ）前，提前收集完整信息：Grok Bot 版本号、操作系统与版本、精确报错文本、涉及的 Bot 或 Routine 名称、故障发生的具体时间与时区、界面显示的完整 Request ID 或会话 ID，以及重启或更新后的对比结果；工单中绝不能附带明文密码、一次性验证码或私钥信息【官方】（https://docs.x.ai/grok-bot/troubleshooting.md ）。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/troubleshooting.md
-- https://cursor.com/help/grok-bot/computer-recovery.md
-- https://cursor.com/help/grok-bot/get-help.md
-- https://forum.cursor.com/t/grokbot-can-not-send-msgs-agents-virtual-machine-is-still-visible/170843
-- https://forum.cursor.com/t/grok-bot-primary-bot-silent-bot-failed-to-respond-since-oct-8-other-bots-ok-restart-this-bots-runner-only-do-not-reset/174138
-- https://www.v2ex.com/t/1247756
-- https://x.com/liuxu_qingdao/status/2108527380570816747
-- https://www.v2ex.com/t/1241829
-- https://www.v2ex.com/t/1241225
-- https://x.ai/changelog/bot
-
 ---
 
 [← 上一章：§21 事故档案 · Incident Files](../part8-pitfalls/21-incidents.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§23 别这么用 · Anti-Patterns →](../part8-pitfalls/23-antipatterns.md)

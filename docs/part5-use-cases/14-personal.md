@@ -218,43 +218,6 @@ Standing boundaries:
 
 第二个坑是电商网站的反爬与风控封号。主流电商平台对机房 IP 的识别非常严格，Bot 频繁在云电脑中打开商品页极易触发滑动验证码或人机校验。遇到风控时，强行让 Bot 自动化重试很容易导致电商账号被封禁，此时必须配合本地出口路由将流量转回个人本机 IP【社区】（https://x.com/xiaohu/status/2099409639234289914 ）。第三个坑是限时特价与审批超时冲突。官方后台审批卡大约 10 分钟自动过期（Expired）【官方】（https://docs.x.ai/grok-bot/approvals-security-and-privacy.md ）。如果遇到库存极少的闪购特价，一旦没能在 10 分钟内点击 Allow once，卡片就会失效并取消操作。高时效性的秒杀抢购并不适合离线 Routine，必须在人守在屏幕前时以人机协同的方式半自动完成。
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://cursor.com/pricing
-- https://cursor.com/help/grok-bot/plans
-- https://x.ai/news/grok-bot-procurement
-- https://x.com/bot/status/2108609764766908772
-- https://x.com/bot/status/2097759948189106686
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/elonmusk/status/2100698004210475317
-- https://x.com/bot/status/2100659463569170779
-- https://x.com/poteto/status/2107830403549831186
-- https://x.com/mattyp/status/2102759899314741736
-- https://x.com/mattyp/status/2107886668892057614
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://x.com/liam_fallen/status/2109332219126784098
-- https://x.com/petergyang/status/2103693608729932025
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/aizhibeibei/status/2108352015319613501
-- https://x.com/maiff20/status/2106774095820095969
-- https://x.com/Michael_Fenech_/status/2105697750645977298
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/kocer_eth/status/2105008655770788250
-- https://x.com/xiaohu/status/2099409639234289914
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/RichSilver/status/2108053489620504822
-- https://x.com/i/status/2109347617398264294
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://x.com/lens2645211/status/2108184037198266383
-
 ---
 
 [← 上一章：§13 编制案例库 · Team Blueprints](../part4-multi-bot/13-blueprints.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§15 内容创作 · Creators →](../part5-use-cases/15-creators.md)

@@ -317,32 +317,6 @@ Only message another bot when it needs to act. No acknowledgments, thanks, or pr
 > [!TIP]
 > 🧪 【实测·TODO待实测】待实测在 Settings 页面核对一周用量百分比并执行 Routine 审计指令。
 
-## 本章来源
-
-- https://x.ai/news/designing-grok-bot
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://x.ai/bot/guides/how-i-run-multiple-teams-of-grok-bots
-- https://docs.x.ai/grok-bot/computer-and-apps.md
-- https://docs.x.ai/grok-bot/skills-routines-and-automations.md
-- https://docs.x.ai/grok-bot/approvals-security-and-privacy.md
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/pricing
-- https://www.youtube.com/watch?v=xZ5TEaleUdg
-- https://x.com/poteto/status/2108097362283597916
-- https://juejin.cn/post/7682695577956483091
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://x.com/Michael_Fenech_/status/2106352565528977469
-- https://x.com/rowancheung/status/2108328114552000842
-- https://chaojifeng.me/free-courses/grok/learn/wechat-02
-- https://ele.ac.cn/2171/
-- https://x.com/KinGao476942/status/2108171436213104836
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://x.com/hejushang8/status/2103760664217174494
-- https://x.com/i/status/2109516426767654962
-
 ---
 
 [← 上一章：§16 赚钱与工作 · Work & Business](../part5-use-cases/16-business.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§18 研发场景：Bot + Cursor 云端 Agent + GitHub · Capstone B →](../part6-capstones/18-capstone-b.md)

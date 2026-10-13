@@ -169,25 +169,6 @@ V2EX 用户 @zhuyinan 在对比本地部署的 Hermes 框架与 Grok Bot 时，�
 > [!NOTE]
 > 📸 **截图位（待补）**：Share as Template 预览详情页（显示包含的 Memory、Skills 与 Plugins 清单）
 
-## 本章来源
-
-- https://docs.x.ai/grok-bot/bots.md
-- https://x.ai/news/designing-grok-bot
-- https://juejin.cn/post/7682695577956483091
-- https://x.ai/news/grok-bot-procurement
-- https://x.com/poteto/status/2108097362283597916
-- https://x.com/poteto/status/2107830403549831186
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://www.youtube.com/watch?v=maSdsTLaMuU
-- https://docs.x.ai/grok-bot/chat-and-collaboration.md
-- https://www.v2ex.com/t/1240012
-- https://x.com/Michael_Fenech_/status/2106729045878514147
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://x.ai/bot/guides/templates-for-grok-bot
-- https://x.ai/legal/bot-sharing-terms
-- https://chaojifeng.me/free-courses/grok/learn/basic-06
-- https://chaojifeng.me/free-courses/grok/learn/field-01
-
 ---
 
 [← 上一章：§04 你的第一个任务 · Your First Task](../part1-getting-started/04-first-task.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§06 云电脑：它的工位 · The Computer →](../part2-core-concepts/06-computer.md)

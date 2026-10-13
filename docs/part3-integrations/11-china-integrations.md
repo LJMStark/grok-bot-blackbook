@@ -145,27 +145,6 @@
 
 在没有原生插件的环境下用 Grok Bot，要守住四条底线：一是绝不让云电脑登录网银、核心财务或高权限管理账号；二是资金支付、发正式邮件、合并代码等敏感操作必须人工二次确认；三是不需要联网的历史数据，清洗脱敏后再以文件交付；四是始终认清云电脑在境外的属性，守住合规底线。
 
-## 本章来源
-
-- 微信接入保姆级指南（Kin on X）：https://xput.app/N4rlhi
-- Kin 微信接入推文（链接帖，正文未抓到）：https://x.com/i/status/2108132811635032316
-- Kin 微信接入互动贴：https://x.com/KinGao476942/status/2108171436213104836
-- 二楼后座 Grok Bot 微信接入完整教程：https://ele.ac.cn/2171/
-- 腾讯 OpenClaw 微信插件代码仓：https://github.com/Tencent/openclaw-weixin
-- 第三方 Grok 微信插件代码仓：https://github.com/little-thing/grok-wechat-plugin
-- 超级峰粉皮书微信实践课程：https://chaojifeng.me/free-courses/grok/learn/wechat-02
-- 翔宇工作流：Grok Bot 能干什么与九类真实场景：https://xiangyugongzuoliu.com/grokbot-use-cases/
-- 微信公众平台官方后台：https://mp.weixin.qq.com/
-- 邮件转发给 agent mail 的实践（maiff20）：https://x.com/i/status/2106774095820095969
-- Grok Bot 邮箱认领与设置（lujunneng）：https://x.com/i/status/2109320438807670985
-- 视频下载与知识库保存（KinGao）：https://x.com/KinGao476942/status/2100073265716928662
-- 微信公众号 RSS 类监控用法（canghe）：https://x.com/i/status/2106976608783577471
-- 公众号文章抓取实操（MrRenran）：https://x.com/i/status/2106964584276037798
-- Grok Bot 本地出口路由解析（xiaohu）：https://x.com/i/status/2099409639234289914
-- AI345 Grok Bot 国内使用教程与合规说明：https://www.ai345.info/ai-guide/grok-bot-china-guide
-- Grok Bot 官方文档：Computer and Apps：https://docs.x.ai/grok-bot/computer-and-apps
-- Grok Bot 官方文档：Use Cases：https://docs.x.ai/grok-bot/use-cases
-
 ---
 
 [← 上一章：§10 官方合作集成逐个讲 · Partner Integrations](../part3-integrations/10-partners.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§12 群聊与交接 · Groups & Handoffs →](../part4-multi-bot/12-groups.md)

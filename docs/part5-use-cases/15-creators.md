@@ -189,39 +189,6 @@ Routine 批量调用 SVG 模板引擎生成当周的图卡包，在对应文件�
 
 *图：小红书知识图卡的分层架构：底层代码绘制、中层文字排版与顶层人工审核发布*
 
-## 本章来源
-
-- https://x.com/bot/status/2107949161878606089
-- https://x.com/bot/status/2093822274067706170
-- https://x.com/rowancheung/status/2108328114552000842
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.com/miniyarov/status/2105428357273800799
-- https://x.com/kocer_eth/status/2101669438038634827
-- https://cursor.com/help/grok-bot/routines
-- https://cursor.com/help/grok-bot/plans
-- https://cursor.com/help/grok-bot/models
-- https://cursor.com/docs/grok-bot/work
-- https://cursor.com/help/grok-bot/computer-recovery
-- https://x.ai/changelog/bot
-- https://www.jxxy.net/ai/articles/AdrianPunk115-2097311704547987756/
-- https://x.com/AdrianPunk115/status/2097311704547987756
-- https://www.jxxy.net/ai/articles/grok-bot-xiaohongshu-team-workflow/
-- https://x.com/yvchengshanren/status/2091566195317309890
-- https://www.jxxy.net/ai/articles/grok-bot-workflow-training/
-- https://xiangyugongzuoliu.com/grokbot-use-cases/
-- https://x.com/i/status/2106976608783577471
-- https://chunduai.com/tutorials/grok-bot-code-video
-- https://x.com/leo_xiaolei/status/2108159484401262882
-- https://gist.github.com/threerocks/5f6f6d5b3801a400bb5343379082580c
-- https://github.com/alchaincyf/huashu-art-motion
-- https://github.com/tomatoparkdao/omniailab-ai-director
-- https://chunduai.com/tutorials/grok-bot-motion-studio
-- https://x.com/0xCarnagee/status/2108501747643670780
-- https://immilesma.com/blog/grok-bot-practical-guide/
-- https://x.com/miles_mazy/status/2098708209095819605
-- https://x.com/0xlangeai/status/2090743461574250762
-- https://x.com/KinGao476942/status/2100224440948916593
-
 ---
 
 [← 上一章：§14 个人与生活 · Personal & Daily Life](../part5-use-cases/14-personal.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§16 赚钱与工作 · Work & Business →](../part5-use-cases/16-business.md)

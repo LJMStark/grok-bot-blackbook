@@ -119,47 +119,6 @@ Notion 不只用来抓取或生成单篇笔记，官方把它当成长周期的�
 
 有社区帖提到，曾有用户在多 Bot 群聊里误输入明文密码，导致同一群组的所有 Bot 全部捕获到了凭据（个例）【社区】（https://x.com/i/status/2107339523038331338 ）。**绝不能在共享群聊中向 Bot 发送明文凭据**，任何外部访问必须通过专用的密码库或环境变量 Secrets 管理。在对接 Salesforce 等关键业务数据库时，如果后台未设置严格的字段级只读策略，Bot 误操作可能会覆盖销售阶段与客户线索。
 
-### 本章来源
-
-- https://x.ai/news/composer-2-5
-- https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk
-- https://x.com/elonmusk/status/2107724314451878104
-- https://x.ai/bot/guides/grok-bot-for-engineering
-- https://x.com/i/status/2105881504744460675
-- https://linux.do/t/topic/2990677
-- https://linux.do/t/topic/2991033
-- https://x.com/i/status/2109088800903483616
-- https://x.ai/cli/install.sh
-- https://x.com/bot/status/2105373767568621895
-- https://docs.x.ai/grok-bot/use-cases.md
-- https://docs.x.ai/grok-bot/team-bots.md
-- https://x.ai/news/team-bots
-- https://cursor.com/bot/slack-auto-approve
-- https://x.com/fleyta88/status/2109346840382415019
-- https://x.ai/news/grok-bot-and-x
-- https://x.com/bot/status/2107949161878606089
-- https://docs.x.ai/grok-bot/tag-on-x.md
-- https://x.com/rowancheung/status/2108328114552000842
-- https://linux.do/t/topic/3004566
-- https://x.com/bot/status/2108609764766908772
-- https://www.163.com/dy/article/L8S7SDMS0511B8LM.html
-- https://linux.do/t/topic/3001934
-- https://linux.do/t/topic/3002150
-- https://x.com/petergyang/status/2108624122339287335
-- https://x.com/petergyang/status/2108412799684915576
-- https://x.com/op7418/status/2108545983647023493
-- https://x.com/KinGao476942/status/2100073265716928662
-- https://x.com/bot/status/2108228871938359347
-- https://x.com/Hensen1016/status/2108025562048483583
-- https://x.com/bot/status/2103936247995752705
-- https://cybernews.com/ai-news/grok-bot-leaks-bank-information/
-- https://x.ai/news/introducing-grok-bot
-- https://x.com/B_doong2daddy/status/2105711764641833238
-- https://x.com/bot/status/2100335532597502311
-- https://x.ai/news/grok-bot-for-enterprise
-- https://learngrokbot.com/plugins
-- https://x.com/i/status/2107339523038331338
-
 ---
 
 [← 上一章：§09 连接器与 Marketplace · Connectors](../part3-integrations/09-connectors.md) ｜ [📖 返回目录](../../README.md#-目录) ｜ [下一章：§11 中国用户的集成：没有插件也能用 · China Integrations →](../part3-integrations/11-china-integrations.md)
