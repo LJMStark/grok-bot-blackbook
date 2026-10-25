@@ -1,6 +1,6 @@
 # 入门教程 · Tutorials
 
-> 整理于 2026-10-13。摘要基于原文或搜索摘录；第三方内容观点归原作者。
+> 整理于 2026-10-25。摘要基于原文或搜索摘录；第三方内容观点归原作者。
 
 ## 中文
 
@@ -23,6 +23,11 @@
 | 公测一周聚合 | 什么值得买 | 2026-08-17 | [post.smzdm.com](https://post.smzdm.com/p/a70keppl/) | 首周定价、社区三条铁规则、典型案例（早期信息，部分已过时） |
 | 小企鵝 Penchan：档位表与职责写法 | Penchan | — | [penchan.co](https://penchan.co/ai/grok/grok-bot/) | 台湾作者整理的档位表与 Bot 职责描述写法 |
 | 最容易上手的多 Agent 协作工具（B站） | Jennie & Ding Ding | 2026-08-31 | [bilibili BV1Set86zER3](https://www.bilibili.com/video/BV1Set86zER3/) | 多 Bot 协作入门视频 |
+| 本地 Codex / Claude Code 通过 BDK 调云端 Grok Bot 教程 | @StarkLJM | 2026-10-12 | [x.com/starkljm/status/2109544938644107411](https://x.com/starkljm/status/2109544938644107411) | 手把手演示通过 BDK（`cursor-grokbot-agents`）让本地 Claude Code/Codex 给云端 Grok Bot 派发 20 秒中国史动画渲染并回传成片 |
+| Grok Bot 深度使用 10 条实战思考与架构指南 | @eze_is_1 | 2026-10-13 | [x.com/eze_is_1/status/2109850538045264151](https://x.com/eze_is_1/status/2109850538045264151) | 厘清 Grok Bot 与本地 Claude Code/Codex 定位差异、多 Bot 协作、Skill 防臃肿、长任务唤醒与防休眠技巧 |
+| 90 秒讲透 Grok Bot 五条核心上手经验（视频） | @itgoyo | 2026-10-17 | [x.com/itgoyo/status/2111332049193996421](https://x.com/itgoyo/status/2111332049193996421) | 涵盖何时建 Bot、Routine 定时、Gmail/GitHub/X 连接器、云电脑持久化与多 Bot Skill 复用 |
+| Grok Bot 新手保姆级视频教程（第一期） | @chuyang_ai | 2026-10-17 | [x.com/chuyang_ai/status/2111357749103911004](https://x.com/chuyang_ai/status/2111357749103911004) | 对比 Grok Bot 与 Claude Code 差异、推荐 $30 X 订阅档位，演示安装、创建首个 Bot 与定时 Routine |
+| Grok Bot × Claude Code / Codex 核心工作流全景汇总 | @AIShovelLab | 2026-10-22 | [x.com/AIShovelLab/status/2113123121070817421](https://x.com/AIShovelLab/status/2113123121070817421) | 汇总防盲目重试路由 Skill、双向本地云端通信、语音派单、Cloud Agent 并发与 `+alias` 邮件触发用法 |
 
 ## English
 
@@ -36,3 +41,5 @@
 | Grok Bot: 5 Must-Try Use Cases for Work and Life | YouTube | — | [youtube.com/watch?v=MkVcHbviYOw](https://www.youtube.com/watch?v=MkVcHbviYOw) | 工作与生活 5 个用例 |
 | Grok Bot Just Dropped (Brutally Honest Review) | YouTube | — | [youtube.com/watch?v=j2WiGVqMczw](https://www.youtube.com/watch?v=j2WiGVqMczw) | 偏批评的上手评测 |
 | Approval rules: why require-approval wins | botemplate.com | — | [botemplate.com](https://botemplate.com/guides/grok-bot-approval-rules) | 审批规则建议：Require Approval 优先于 Always Allow |
+| iPhone Action Button 一键语音唤醒实操演示（视频） | @SawyerMerritt | 2026-10-19 | [x.com/SawyerMerritt/status/2112252980015579431](https://x.com/SawyerMerritt/status/2112252980015579431) | 现场演示将 iPhone 侧边操作按钮绑定为 Grok Bot 语音通话并即时下达任务 |
+| 10 Insane Grok Bot Use Cases（含完整提示词与演示） | @milesdeutscher | 2026-10-23 | [x.com/milesdeutscher/status/2113653680834859262](https://x.com/milesdeutscher/status/2113653680834859262) | 拆解第二大脑、10+ Bot 集群编排、晨报、订阅审计、潜客抓取与内容改写等 10 套完整工作流 |
